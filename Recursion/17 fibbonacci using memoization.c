@@ -48,6 +48,6 @@ int  main ()
 	scanf("%d",&a);
 	printf("fibbo using recursive function %d \n",rfib(a)); // time complexity for this is 2 pow n
 	printf("fibbo using loop is %d \n",fib(a)); // time complexity for this is o(n)
-	printf("Fibbo using memoization is ",mfib(a)); // Time complexity using memoization is o(n) where space is takes very less , it works on dynamic programmin 
+	printf("Fibbo using memoization is %d ",mfib(a)); // Time complexity using memoization is o(n) where space is takes very less , it works on dynamic programmin 
 	return 0;
 }
