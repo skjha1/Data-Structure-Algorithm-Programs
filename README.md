@@ -1,8 +1,8 @@
-# [:books:](https://drive.google.com/drive/folders/0B1EMPyM0E8hzR093NjEyYm8zdjA?usp=sharing)Data Structures and Algorithms
+# [:books:](https://drive.google.com/drive/folders/0B1EMPyM0E8hzR093NjEyYm8z)Data Structures and Algorithms
 
 “A data structure is a way to store and organize data in a computer, so that it can be used efficiently.”
 ## Data Structures
-* [:blue_book:](https://drive.google.com/file/d/1uW9twVnqhkhV1ZWLmgp4IFGUcH-_VsVY/view?usp=sharing) [ Recursion ](https://github.com/skjha1/Data-Structure-Algorithm/tree/master/Recursion/)
+* [:blue_book:](https://drive.google.com/file/d/1uW9twVnqhkhV1ZWLmgp4IFGUcH-_) [ Recursion ](https://github.com/skjha1/Data-Structure-Algorithm/tree/master/Recursion/)
   - [Head Recursion](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Recursion/02%20head%20recursion.cpp)
   - [Tail Recursion](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Recursion/01%20tail%20recursion.cpp)
   - [Global variable recursion](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Recursion/03%20global%20variable%20recursion)
