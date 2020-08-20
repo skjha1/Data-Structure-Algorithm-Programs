@@ -44,7 +44,7 @@ void Reverse1(struct Array *arr)
 int main()
 
 {
-	struct Array arr1={{2,3,4,56,66,69,98},20,6};
+	struct Array arr1={{2,3,4,56,66,69,98},7,20};
 	// Call any one method to execute 
 	Reverse(&arr1); // Shifting 
 	Reverse1(&arr1); // 2nd method by swapping 1st with last i.e rotating 
