@@ -21,3 +21,6 @@
   - [nCr formula](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Recursion/18%20nCr%20formula.c)
   - [Tower of Hanoi](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Recursion/19%20Tower%20of%20Hanoi%20.c)
   
+* [:blue_book:](https://drive.google.com/drive/folders/1VzrX63lw2w44Vr3WL8udBO5Cyc3-W5vc) [Array](https://github.com/skjha1/Data-Structure-Algorithm/tree/master/Array)
+  - [static and dynamic array](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/01%20static%20and%20dynamic%20array%20.c)
+  
