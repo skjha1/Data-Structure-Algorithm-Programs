@@ -23,4 +23,13 @@
   
 * [:blue_book:](https://drive.google.com/drive/folders/1VzrX63lw2w44Vr3WL8udBO5Cyc3-W5vc) [Array](https://github.com/skjha1/Data-Structure-Algorithm/tree/master/Array)
   - [static and dynamic array](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/01%20static%20and%20dynamic%20array%20.c)
+  - [increasing size of array in heap](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/02%20increasing%20size%20of%20array%20using%20heap.cpp)
+  - [Creating 2D array & Accessing](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/03%20Creating%202D%20array%20%26%20Accessing.c)
+  - [Array ADT1](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/04%20Array%20ADT1.c)
+  - [inserting an element](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/05%20inserting%20an%20element.c)
+  - [Deleting element](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/06%20Deleting%20element%20from%20array.c)
+  - [Linear search](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/07%20Linear%20search.c)
+  - [Improving Linear search](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/08%20Improving%20Linear%20search.c)
+  - [Binary Search Using Recursion](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/10%20Binary%20Search%20Using%20Recursion.c)
+  - [Binary Search using loop](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/09%20Binary%20Search%20using%20loop.c)
   
