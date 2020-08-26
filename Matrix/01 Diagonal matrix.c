@@ -38,7 +38,8 @@ int main ()
 {
 	struct matrix m;
 	m.n=4;
-	set (&m,1,1,5);set(&m,2,2,7);set(&m,3,3,8);set(&m,4,4,1);set (&m,5,5,2);
+	set (&m,1,1,5);set(&m,2,2,7);set(&m,3,3,8);set(&m,4,4,1);set (&m,5,5,2); // passing argument to diag matrix
+	printf("%d \n",Get(m,2,2)); // for slicing matrix 
 	Display(m);
 	return 0;
 }
