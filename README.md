@@ -42,5 +42,15 @@
   - [Menu Based problem](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/18%20Menu%20Based%20problem.cpp)
   - [Single Missing Element in Sorted Array](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/19%20Single%20Missing%20Element%20in%20Sorted%20Array.cpp)
   - [Single Missing Value in a sorted array M2](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/20%20Single%20Missing%20Value%20in%20a%20sorted%20array%20M2.c)
-  
+  - [Multiple Missing Elements in Sorted Array](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/21%20Multiple%20Missing%20Elements%20in%20Sorted%20Array.cpp)
+  - [Missing elements in Unsorted Array (HASH TABLE)](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/22%20Missing%20elements%20in%20Unsorted%20Array%20(HASH%20TABLE).cpp)
+  - [Finding Duplicate in Soorted Array](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/23%20Finding%20Duplicate%20in%20Soorted%20Array.cpp)
+  - [Counting Duplicate Elements In Sorted M2](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/24%20Counting%20Duplicate%20Elements%20In%20Sorted.cpp)
+  - [Counting Duplicate elements using hash table (SA)](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/25%20Counting%20Duplicate%20elements%20using%20hash%20table%20(SA).cpp)
+  - [Finding Duplicate in Unsoorted Array](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/26%20Finding%20Duplicate%20in%20Unsoorted%20Array.cpp)
+  - [Find a pair with sum k](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/27%20Find%20a%20pair%20with%20sum%20k.cpp)
+  - [Find a pair with sum k in unsorted](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/28%20Find%20a%20pair%20with%20sum%20k%20in%20unsorted.cpp)
+  - [Find a pair with sum k using Hashing](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/29%20Find%20a%20pair%20with%20sum%20k%20using%20Hashing.cpp)
+  - [Finding max & min in single scan](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/30%20Finding%20max%20%26%20min%20in%20single%20scan.cpp)
+      - [Problems on array](https://github.com/skjha1/Data-Structure-Algorithm/tree/master/Array/Problems)
   
