@@ -32,4 +32,15 @@
   - [Improving Linear search](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/08%20Improving%20Linear%20search.c)
   - [Binary Search Using Recursion](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/10%20Binary%20Search%20Using%20Recursion.c)
   - [Binary Search using loop](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/09%20Binary%20Search%20using%20loop.c)
+  - [Get Set max min sum avg](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/11%20Get%20Set%20max%20min%20sum%20avg.c)
+  - [Rotate and Shift](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/12%20Rotate%20and%20Shift.c)
+  - [IsSorted](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/13%20IsSorted%20.c)
+  - [Mergeing 2 Array](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/14%20Mergeing%202%20Array.c)
+  - [InsertSort](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/15%20InsertSort%20.c)
+  - [Set Operation (Union,Intersec,diff)](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/16%20Set%20Operation%20(Union%2CIntersec%2Cdiff).c)
+  - [Insertion and Deletion](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/17%20Insertion%20and%20Deletion.cpp)
+  - [Menu Based problem](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/18%20Menu%20Based%20problem.cpp)
+  - [Single Missing Element in Sorted Array](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/19%20Single%20Missing%20Element%20in%20Sorted%20Array.cpp)
+  - [Single Missing Value in a sorted array M2](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/20%20Single%20Missing%20Value%20in%20a%20sorted%20array%20M2.c)
+  
   
