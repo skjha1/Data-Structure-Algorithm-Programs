@@ -116,3 +116,10 @@ int main()
 	
 	return 0;
 }
+
+
+/*
+The scanf_s() function reads data from the standard input stream stdin and writes the
+data into the location given by argument. Each argument must be a pointer to a variable 
+of a type that corresponds to a type specifier in format. If copying takes place between 
+strings that overlap, the behavior is undefined.*/
