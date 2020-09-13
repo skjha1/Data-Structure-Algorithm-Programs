@@ -91,4 +91,5 @@
   - [27 Middle of Linkedlist](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/LinkedList/Basic%20Consept/28%20Middle%20of%20Linkedlist.c)
   - [28 Polynomial of Linkedlist](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/LinkedList/Basic%20Consept/29%20Polynomial%20of%20Linkedlist.c)
     - [Problems on LL](https://github.com/skjha1/Data-Structure-Algorithm/tree/master/LinkedList/Problems)
+* [:red_book:](https://drive.google.com/drive/folders/1VzrX63lw2w44Vr3WL8udBO5Cyc3-W5vc) [Stack](https://github.com/skjha1/Data-Structure-Algorithm/tree/master/LinkedList)
   
