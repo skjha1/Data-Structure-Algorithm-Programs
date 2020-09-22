@@ -24,7 +24,7 @@ void BST::Insert(int key) {
 
     Node* t = root;
     Node* p;
-    Node* r;
+    Node* r=t;
 
     // root is empty
     if (root == nullptr) {
