@@ -4,8 +4,8 @@
 ## Data Structures
 * [:blue_book:](https://drive.google.com/file/d/1wqMgL_6w8nWgFCHYXQ0NA8Kjz8LLcmKu/view?usp=sharing) [ Recursion ](https://github.com/skjha1/Data-Structure-Algorithm/tree/master/Recursion/)
   - [01 Head Recursion](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Recursion/02%20head%20recursion.cpp)
-  - [02 Tail Recursion](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Recursion/01%20tail%20recursion.cpp)
-  - [03 Global variable recursion](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Recursion/03%20global%20variable%20recursion)
+  - [02 Tail Recursion](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Recursion/01%20Tail%20recursion.cpp)
+  - [03 Global variable recursion](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Recursion/03%20global%20variable%20recursion.c)
   - [04 Static variable reciursion](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Recursion/04%20static%20variable%20in%20reciursion.c)
   - [05 Tree recursion](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Recursion/05%20Tree%20recursion.c)
   - [06 Nested recursion](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Recursion/06%20nested%20recursion.c)
