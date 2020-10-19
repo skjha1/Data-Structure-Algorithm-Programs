@@ -116,5 +116,10 @@
   - [07 Sum of tree](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Tree/Basic/06%20Sum%20of%20tree.c)
   - [08 D1,D2,D0(leaf node) count](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Tree/Basic/07%20D1%2CD2%2CD0(leaf%20node)%20count.cpp)
   - [09 Leaf,D1,D2 node count](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Tree/Basic/08%20leaf%2CD1%2CD2%20node%20count.c)
-  
-  
+* [:blue_book:](https://drive.google.com/drive/folders/1VzrX63lw2w44Vr3WL8udBO5Cyc3-W5vc) [Binary Search Tree](https://github.com/skjha1/Data-Structure-Algorithm/tree/master/Tree/BST)
+  - [01 BST Insert Inorder & Search](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Tree/BST/01%20BST%20Insert%20Inorder%20%26%20Search.c)
+  - [02 BST Insert,Inorder&Search(cpp)](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Tree/BST/02%20BST%20Insert%2CInorder%26Search.cpp)
+  - [03 Insert in BST](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Tree/BST/03%20Insert%20in%20BST.c)
+  - [04 Recursive Insert in BST](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Tree/BST/03%20Recursive%20Insert%20in%20BST.c)
+  - [05 Delete from BST (Height,InPre,InSucc)](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Tree/BST/04%20Delete%20from%20BST%20(Height%2CInPre%2CInSucc).c)
+  - [05 BST Project](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Tree/BST/05%20BST%20Project.cpp)
