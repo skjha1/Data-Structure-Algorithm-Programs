@@ -154,3 +154,10 @@
   - [09 RadixSortUsingLL](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Sorting%20Technique/15%20RadixSortUsingLL.cpp)
   - [10 BinSortBasedonLL](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Sorting%20Technique/16%20BinSortBasedonLL.cpp)
   - [11 Shellsort](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Sorting%20Technique/17%20Shellsort.c)
+  
+## Big-O complexities of common Data structure & Algorithm
+![](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/src/TC/Order%20of%20TC.png)
+![](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/src/TC/TC%20of%20DS.png)
+![](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/src/TC/Sorting%20Algo.png)
+![](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/src/TC/Graph%20and%20heap.png)
+![Graph Algorithm](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/src/TC/Graph%20Algorithm.png)
