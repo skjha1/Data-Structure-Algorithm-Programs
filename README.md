@@ -106,4 +106,15 @@
   - [05 Queue using Linkedlist](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Queue/05%20Queue%20using%20Linkedlist%20%20(2).cpp)
   - [06 DEQueue using Array](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Queue/06%20DEQueue%20using%20Array%20.cpp)
   - [07 Queue using two stack](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Queue/07%20Queue%20using%20two%20stack.cpp)
+* [:blue_book:](https://drive.google.com/drive/folders/1VzrX63lw2w44Vr3WL8udBO5Cyc3-W5vc) [Tree](https://github.com/skjha1/Data-Structure-Algorithm/tree/master/Tree/Basic)
+  - [01 Traversal of tree](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Tree/Basic/01%20Traversal%20of%20tree.cpp)
+  - [02 Iterative and recursive traversal of tree](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Tree/Basic/02%20Iterative%20and%20recursive%20traversal%20of%20tree%20.cpp)
+  - [03 Traversal of Tree](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Tree/Basic/02%20Traversal%20of%20Tree.c)
+  - [04 Level Order Traversal](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Tree/Basic/03%20Level%20Order%20Traversal.c)
+  - [05 Count and Height of tree](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Tree/Basic/04%20Count%20and%20Height%20of%20tree.c)
+  - [06 Recursive Count and height of tree](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Tree/Basic/05%20Recursive%20Count%20and%20height%20of%20tree.c)
+  - [07 Sum of tree](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Tree/Basic/06%20Sum%20of%20tree.c)
+  - [08 D1,D2,D0(leaf node) count](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Tree/Basic/07%20D1%2CD2%2CD0(leaf%20node)%20count.cpp)
+  - [09 Leaf,D1,D2 node count](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Tree/Basic/08%20leaf%2CD1%2CD2%20node%20count.c)
+  
   
