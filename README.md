@@ -141,4 +141,5 @@
   - [03 Insert in Heap](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Heap/03%20Insert%20in%20Heap.cpp)
   - [04 Delete element from Heap](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Heap/04%20Delete%20element%20from%20Heap.c)
   - [05 Heap sort](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Heap/05%20Heap%20sort.c)
+  
   -[06 HeapifyFunctionFasterMethodtoCreateHeap](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Heap/06%20HeapifyFunctionFasterMethodtoCreateHeap.cpp)
