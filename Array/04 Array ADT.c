@@ -1,30 +1,40 @@
 #include <stdio.h>
-struct Array 
+#include<stdlib.h>
+struct Array
 {
-	int A[20];
+	int* A;
 	int size;
 	int length;
 };
 
-int Display (struct Array arr)
+// fxn for display all the elements of the array
+
+void Display(struct Array arr)
 {
 	int i;
-	// enter the elements of an array 
-	printf("The elemrnts of array is \n");
-	for (i=0;i<arr.length;i++)
-	printf("%d ",arr.A[i]);
-	printf("\nThe size of the array is %d\n",arr.size);
-	printf("The length of the array is %d",arr.length);
-	return 0;
+	printf("Elements Are\n");
+	for (i = 0; i < arr.length; i++)
+		printf("%d ",arr.A[i]); // it will display all the elements 
 }
-
-
-
-
-
-int main ()
+int main()
 {
-	struct Array arr= {{5,6,9,9,7,5},5,20	};
+	struct Array arr;
+	int n; // how many no is going to be inserted 
+	int i;
+	printf("Enter size of an array ");
+	scanf_s("%d", &arr.size);
+	arr.A = (int*)malloc(arr.size * sizeof(int)); // dynamically created array 
+	arr.length = 0;// intially no elements 
+	printf("Enter number of numbers ");
+	scanf_s("%d", &n);
+	printf("Enter All the elements ");
+	for (i = 0; i < n; i++)
+		scanf_s("%d", &arr.A[i]); // enter the elements of an array 
+	arr.length = n; // set length as n 
+
+
 	Display(arr);
+
+
 	return 0;
 }
