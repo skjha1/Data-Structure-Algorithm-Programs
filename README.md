@@ -17,7 +17,7 @@
   - [12 Taylor Serie Iterative](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Recursion/14%20Taylor%20Serie%20Iterative.cpp)
   - [13 Indirect Recursion](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Recursion/15%20Indirect%20Recursion.c)
   - [14 Fibbonaci series using loop and recursion](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Recursion/16%20Fibbonaci%20series%20using%20loop%20and%20recursion%20.c)
-  - [15 Fibbonacci using memoization](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Recursion/17%20fibbonacci%20using%20memoization.c)
+  - [15 Fibbonacci using Memoization](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Recursion/17%20fibbonacci%20using%20memoization.c)
   - [16 nCr formula](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Recursion/18%20nCr%20formula.c)
   - [17 Tower of Hanoi](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Recursion/19%20Tower%20of%20Hanoi%20.c)
   
