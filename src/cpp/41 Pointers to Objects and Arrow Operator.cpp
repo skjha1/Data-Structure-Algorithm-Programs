@@ -7,6 +7,10 @@ sometimes we dont know, at the time that we write the program , how many objects
 objects while the program is running. new returns a pointer to an unnamed objects. lets see the example of student that wiil clear your idea about this topic
 
 
+The . (dot) operator and the -> (arrow) operator are used to reference individual members of classes, structures, and unions.
+
+The dot operator is applied to the actual object. The arrow operator is used with a pointer to an object.
+
 */
 
 #include<iostream>
