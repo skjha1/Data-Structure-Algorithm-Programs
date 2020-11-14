@@ -36,12 +36,12 @@ Constraints:
 
 class Solution {
 public:
-    int maxSubArray(vector<int>& nums) {
-       int  max_sub_array =nums[0], current_sum=0;
-        for (int i=0;i<nums.size();i++){
-            if (current_sum < 0)
-                current_sum = 0;
-            current_sum += nums[i];
+    int maxSubArray(vector<int>& nums) { 
+       int  max_sub_array =nums[0], current_sum=0; // initialize current_sum as zero and everytime check for the subarray whose sum is maximum
+        for (int i=0;i<nums.size();i++){ // iteraton through full array
+            if (current_sum < 0) // check only for the +ve numbers 
+                current_sum = 0; // initally current sum as zero 
+            current_sum += nums[i]; 
             max_sub_array = max(max_sub_array, current_sum);
         }
         return max_sub_array;
