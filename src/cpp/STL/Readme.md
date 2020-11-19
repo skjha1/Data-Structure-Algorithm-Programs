@@ -6,3 +6,6 @@
      * [List](https://www.geeksforgeeks.org/list-cpp-stl/)
      * [Deque](https://www.geeksforgeeks.org/deque-cpp-stl/)
      * [Array](https://www.geeksforgeeks.org/array-class-c/)
+     * [Forward List](https://www.geeksforgeeks.org/forward-list-c-set-1-introduction-important-functions/)
+     
+     
