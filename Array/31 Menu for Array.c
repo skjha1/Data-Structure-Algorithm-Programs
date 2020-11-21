@@ -9,7 +9,6 @@ struct array
 };
 
 
-
 void Display(struct array arr);
 void Append(struct array *arr,int x);
 void Insert(struct array *arr,int index,int x);
