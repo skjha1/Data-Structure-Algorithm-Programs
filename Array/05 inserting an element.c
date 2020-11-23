@@ -9,6 +9,7 @@ struct Array
 void Display(struct Array arr)
 {
 	int i;
+	cout<<"printing all the elements "<<endl;
 	for (i = 0; i < arr.length; i++)
 		cout << arr.A[i] << " ";
 }
@@ -32,11 +33,22 @@ void Insert(struct Array* arr, int index, int x) // the index at which we want t
 
 }
 
-int main()
-{
-	struct Array arr1 = { {2,3,4,5,6},10,5 };
-	Add(&arr1, 10);
-	Insert(&arr1, 0, 12);
-	Display(arr1);
+int main() {
+	int no;
+	struct Array arr;
+	cout << "Enter the size of the array " << endl;
+	cin >> arr.size;
+	arr.A = new int[arr.size];
+	arr.length = 0;
+	cout << "Enter the length of array" << endl;
+	cin >> no;
+	cout << "Enter all the elements of array" << endl;
+	for (int i = 0; i < no; i++)
+		cin >> arr.A[i];
+	arr.length = no;
+	Add(&arr, 10);
+	Insert(&arr,3,25);
+	Display(arr);
+
 	return 0;
 }
