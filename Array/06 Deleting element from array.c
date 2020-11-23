@@ -26,10 +26,10 @@ The Arrow(->) operator exists to access the members of the structure or the unio
 	int i;
 	if (index>=0 && index <arr->length)
 	{
-		x=arr->A[index];
-		for (i=index;i<arr->length-1;i++)
-		arr->A[i]=arr->A[i+1];
-		arr->length--;
+		x=arr->A[index]; // first of all take out the element from the particular index you want to del
+		for (i=index;i<arr->length-1;i++) // shift the element in forward direnction and stop at length -1 so that array can not have any vacant space 
+		arr->A[i]=arr->A[i+1]; // at the place of a[i] copy the next element i.e a[i+1]
+		arr->length--;//at last the length will be decreatmented 
 		return x;
 	}
 	return 0;
