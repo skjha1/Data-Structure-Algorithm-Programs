@@ -21,11 +21,11 @@ void swap(int *x,int *y)
 int LinearSearch(struct Array *arr,int key)
 {
  int i;
- for(i=0;i<arr->length;i++)
+ for(i=0;i<arr->length;i++) // iterating through the list 
  {
- if(key==arr->A[i])
+ if(key==arr->A[i]) // checking whether elements is equal to the key elements or not 
  {
- swap(&arr->A[i],&arr->A[0]);
+ swap(&arr->A[i],&arr->A[0]); // this is move to 1st method // from this we can reduce time to O(1) // when we will search the same element again 
  return i;
  }
  }
