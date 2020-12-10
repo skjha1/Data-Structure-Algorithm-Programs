@@ -1,6 +1,6 @@
 # [:books:](https://drive.google.com/drive/folders/1Kqtnwaz-EgXbPoRLcRlp4bQAQpP_RyJg?usp=sharing)Data Structures and Algorithms
 
-“A data structure is a way to store and organize data in a computer, so that it can be used efficiently....”
+“A data structure is a way to store and organize data in a computer, so that it can be used efficiently..”
 ## Data Structures
 * [:blue_book:](https://drive.google.com/file/d/1wqMgL_6w8nWgFCHYXQ0NA8Kjz8LLcmKu/view?usp=sharing) [ Recursion ](https://github.com/skjha1/Data-Structure-Algorithm/tree/master/Recursion/)
   - [01 Head Recursion](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Recursion/02%20head%20recursion.cpp)
