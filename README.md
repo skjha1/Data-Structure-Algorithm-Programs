@@ -22,8 +22,8 @@
   - [17 Tower of Hanoi](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Recursion/19%20Tower%20of%20Hanoi%20.c)
   
 * [:blue_book:](https://drive.google.com/drive/folders/1VzrX63lw2w44Vr3WL8udBO5Cyc3-W5vc) [Array](https://github.com/skjha1/Data-Structure-Algorithm/tree/master/Array)
-  - [01 static and dynamic array](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/01%20static%20and%20dynamic%20array%20.c)
-  - [02 increasing size of array in heap](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/02%20increasing%20size%20of%20array%20using%20heap.cpp)
+  - [01 Static and dynamic array](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/01%20static%20and%20dynamic%20array%20.c)
+  - [02 Increasing size of array in heap](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/02%20increasing%20size%20of%20array%20using%20heap.cpp)
   - [03 Creating 2D array & Accessing](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/03%20Creating%202D%20array%20%26%20Accessing.c)
   - [04 Array ADT1](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/04%20Array%20ADT.c)
   - [05 inserting an element](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/05%20inserting%20an%20element.c)
