@@ -163,3 +163,5 @@
 ![](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/src/TC/Sorting%20Algo.png)
 ![](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/src/TC/Graph%20and%20heap.png)
 ![Graph Algorithm](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/src/TC/Graph%20Algorithm.png)
+
+* [:blue_book:](https://drive.google.com/file/d/1wqMgL_6w8nWgFCHYXQ0NA8Kjz8LLcmKu/view?usp=sharing) [Time Complexity and Problems](https://github.com/skjha1/Data-Structure-Algorithm/tree/master/src/TC/Time%20Complexity%20problems)
