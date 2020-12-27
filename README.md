@@ -164,7 +164,7 @@
 ![](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/src/TC/Graph%20and%20heap.png)
 ![Graph Algorithm](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/src/TC/Graph%20Algorithm.png)
 
-# [:books:](https://drive.google.com/drive/folders/1Kqtnwaz-EgXbPoRLcRlp4bQAQpP_RyJg?usp=sharing)Algorithms
+# [:books:](https://github.com/skjha1/Data-Structure-Algorithm/tree/master/src/Algorithms)Algorithms
 ### Algorithms
 In software development we have two phases:-
 * Design
