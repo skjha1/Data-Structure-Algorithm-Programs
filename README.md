@@ -169,8 +169,25 @@
 In software development we have two phases:-
 * Design
 * Implementation
-For designing any kind of software we should have a blueprint for that, i.e we can not develop any software on hit and trial basis. So this is how Algorithm came.
-Algorithm:- It is the core of computer science to develop any kind of software we need a approach to get it. So algorithm is step by step procedure do solve any kind of computational problem. 
+* For designing any kind of software we should have a blueprint for that, i.e we can not develop any software on hit and trial basis. So this is how Algorithm came.
+Algorithm:- It is the core of computer science to develop any kind of software we need a approach to get it. So algorithm is step by step procedure do solve any kind of computational problem.
+* There is certain point about algorithm:-
+*	Algorithm is written at design time.
+*	For writing any effective one should have Proper domain Knowledge.
+*	Algorithm is language independent.
+*	And it is independent of Hardware & OS.
+*	We are doing priori analysis when writing algorithms.
+*	Mainly we are considering Time & Space function. Rather than that we are checking for Network Consumption/Data Transfer, Power consumption and Consumption of CPU Register.
+
+* characteristics of Algorithm :-
+* 1.	Input 
+* 2.	Output
+* 3.	Definiteness(Every Statement should be clear and understandable) 
+* 4.	Finiteness(Algorithm must terminate at some time)
+* 5.	Effectiveness(Don’t write unnecessary steps)
+* 6.	Independent(It can be implemented in any programming language).
+
+
 
 
 * [:blue_book:](https://drive.google.com/file/d/1wqMgL_6w8nWgFCHYXQ0NA8Kjz8LLcmKu/view?usp=sharing) [Time Complexity and Problems](https://github.com/skjha1/Data-Structure-Algorithm/tree/master/src/TC/Time%20Complexity%20problems)
