@@ -167,8 +167,8 @@
 # [:books:](https://drive.google.com/drive/folders/1Kqtnwaz-EgXbPoRLcRlp4bQAQpP_RyJg?usp=sharing)Algorithms
 ### Algorithms
 In software development we have two phases:-
-•	Design
-•	Implementation
+* •	Design
+* •	Implementation
 For designing any kind of software we should have a blueprint for that, i.e we can not develop any software on hit and trial basis. So this is how Algorithm came.
 Algorithm:- It is the core of computer science to develop any kind of software we need a approach to get it. So algorithm is step by step procedure do solve any kind of computational problem. 
 
