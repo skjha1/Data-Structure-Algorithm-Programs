@@ -194,7 +194,7 @@ In software development we have two phases:-
 * [:blue_book:](#) [Divide & Conquer](https://github.com/skjha1/Data-Structure-Algorithm/tree/master/src/Algorithms/Divide%20%26%20Conquer)
   - [Merge Sort](#)
   - [Quick Sort](#)
-  - [Binary Search](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/src/Algorithms/Divide%20%26%20Conquer/01%20Binary%20Search.cpp)
+  - [Binary Search)(logn)](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/src/Algorithms/Divide%20%26%20Conquer/01%20Binary%20Search.cpp)
   - [Strassen’s Matrix Multiplication](#)
   - [Maximul Subarray](#)
   - [Integer Multiplication](#)
