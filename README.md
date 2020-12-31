@@ -192,7 +192,7 @@ In software development we have two phases:-
 
 * [:blue_book:](https://drive.google.com/file/d/1wqMgL_6w8nWgFCHYXQ0NA8Kjz8LLcmKu/view?usp=sharing) [Time Complexity and Problems](https://github.com/skjha1/Data-Structure-Algorithm/tree/master/src/TC/Time%20Complexity%20problems)
 * [:blue_book:](https://drive.google.com/drive/folders/1YFkrOjBOpbVwJ7SrrVxommPce43RJBNG) [Divide & Conquer](https://github.com/skjha1/Data-Structure-Algorithm/tree/master/src/Algorithms/Divide%20%26%20Conquer)
-  - [Merge Sort](#)
+  - [Merge Sort](https://drive.google.com/drive/folders/1YFkrOjBOpbVwJ7SrrVxommPce43RJBNG)
   - [Quick Sort](#)
   - [Binary Search  (logn)](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/src/Algorithms/Divide%20%26%20Conquer/01%20Binary%20Search.cpp)
   - [Strassen’s Matrix Multiplication](#)
