@@ -198,4 +198,4 @@ In software development we have two phases:-
   - [Strassen’s Matrix Multiplication](#)
   - [Maximul Subarray](#)
   - [Integer Multiplication](#)
-  -[Karatsuba Algorithm for Fast Mul](#)
+  - [Karatsuba Algorithm for Fast Mul](#)
