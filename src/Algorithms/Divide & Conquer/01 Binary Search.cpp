@@ -33,7 +33,7 @@ int RBinarySearch(struct Array* arr, int l, int h, int key)
 		mid = (l + h) / 2;
 		if (key == arr->A[mid])
 			return mid;
-		else if (mid < arr->A[mid])
+		else if (key < arr->A[mid])
 			return RBinarySearch(arr, l, mid - 1, key);
 		else
 			return RBinarySearch(arr, mid + 1, h, key);
