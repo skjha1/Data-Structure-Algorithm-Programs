@@ -199,5 +199,3 @@ In software development we have two phases:-
   - [Maximul Subarray](#)
   - [Integer Multiplication](#)
   -[Karatsuba Algorithm for Fast Mul](#)
-  
-  
