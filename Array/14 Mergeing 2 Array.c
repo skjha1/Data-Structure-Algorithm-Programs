@@ -1,4 +1,6 @@
 //Merging 2 Arrays
+#include<stdio.h>
+#include<stdlib.h>
 struct Array
 {
  int A[10];
