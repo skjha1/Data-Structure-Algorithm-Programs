@@ -195,6 +195,7 @@ In software development we have two phases:-
   - [Merge Sort](https://drive.google.com/drive/folders/1YFkrOjBOpbVwJ7SrrVxommPce43RJBNG)
   - [Quick Sort](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/src/Algorithms/Divide%20%26%20Conquer/02%20Quicksort.cpp)
   - [Binary Search  (logn)](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/src/Algorithms/Divide%20%26%20Conquer/01%20Binary%20Search.cpp)
+  - [Closest Pair of Points | O(nlogn)](https://www.geeksforgeeks.org/closest-pair-of-points-onlogn-implementation/)
   - [Strassen’s Matrix Multiplication](#)
   - [Maximul Subarray](#)
   - [Integer Multiplication](#)
