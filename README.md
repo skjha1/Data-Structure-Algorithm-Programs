@@ -152,7 +152,7 @@
   - [05 Iterative Mergesort](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Sorting%20Technique/09%20Iterative%20Mergesort.c)
   - [06 Nested recursion](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Recursion/06%20nested%20recursion.c)
   - [07  RecursiveMergeSort](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Sorting%20Technique/12%20RecursiveMergeSort.cpp)
-  - [08 Countsort](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Sorting%20Technique/13%20Countsort.c)
+  - [08 Count sort](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Sorting%20Technique/13%20Count%20Sort.cpp)
   - [09 RadixSortUsingLL](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Sorting%20Technique/15%20RadixSortUsingLL.cpp)
   - [10 BinSortBasedonLL](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Sorting%20Technique/16%20BinSortBasedonLL.cpp)
   - [11 Shellsort](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Sorting%20Technique/17%20Shellsort.c)
