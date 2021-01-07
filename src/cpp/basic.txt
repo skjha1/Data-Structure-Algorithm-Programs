@@ -1,0 +1,21 @@
+function : fxn is a piece of code which performs a specific task 
+Structure : is a group of related data members now fxn is a grp of related instruction which perform a specific task ,
+fxn is called as mpdule .
+* Everything inside a single program is monolithic programming 
+* breaking into fxn is k/as modular or procedural peogramming ; we can break in smaller smaller program ; .
+* This inrease productivity and reusability we can make library
+
+-> pass by val : in this actual paramter (in main fxn ) will not be effected if any changes is done in formal parameter .(use in max,min,avg, and if we want to return something )
+-> Call by address swap(&a,&b); and use (pointer *) in formal parameter it will effect the actual parameter if any changes made in formal parameter (use in swap , and if u want to modify actual parameter )
+-> call by reference -> everything will be as call by value only the change is keep (&) in the formal parameter.(Supported in cpp only )
+
+for each loop : - > for (int a:A)
+-> structure can be passed by value but array can not be pass by value , array can be passed by address or reference
+-> structure can be passed by value even if array is there inside structure.
+
+-> in structure everything is public and in class everything is private. 
+-> mutetors , succsessor program , facilitators program -> uses member fxn of class and do some work on that . 
+
+this->a ---> it denotes the pointer to the current object.
+
+
