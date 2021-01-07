@@ -155,7 +155,7 @@
   - [08 Count sort](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Sorting%20Technique/13%20Count%20Sort.cpp)
   - [09 BinSort Based on LL](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Sorting%20Technique/16%20BinSort%20Based%20on%20LL.cpp)
   - [10 RadixSort Using LL](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Sorting%20Technique/15%20RadixSort%20Using%20LL.cpp)
-  - [11 Shellsort](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Sorting%20Technique/17%20Shellsort.c)
+  - [11 Shellsort](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Sorting%20Technique/18%20ShellSort.cpp)
   
 ## Big-O complexities of common Data structure & Algorithm
 ![](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/src/TC/Order%20of%20TC.png)
