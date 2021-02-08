@@ -1,7 +1,7 @@
 # [:books:](https://drive.google.com/drive/folders/1Kqtnwaz-EgXbPoRLcRlp4bQAQpP_RyJg?usp=sharing)Data Structures
 
 “ For solving any real world problem with a programming approach we need a suitable data structure. A data structure is a way to store and organize data in a computer,so that it can be used efficiently in terms of time and space”
-## Data Structures.
+## Data Structures. 
 
 
 * [:blue_book:](https://drive.google.com/file/d/1wqMgL_6w8nWgFCHYXQ0NA8Kjz8LLcmKu/view?usp=sharing) [ Recursion ](https://github.com/skjha1/Data-Structure-Algorithm/tree/master/Recursion/)
