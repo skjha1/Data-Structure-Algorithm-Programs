@@ -1,6 +1,6 @@
 # STL Resources 
 
-* In STL mainly we are having 
+* In ***[STL](https://www.geeksforgeeks.org/the-c-standard-template-library-stl/)*** mainly we are having 
   1. Algorithm : ***Algorithm act on containers and provide means for various operations for the contents of the containers***
   2. Containers : ***Containers or container classes store objects and data.***
   3. Functions : ***Functors allow the working of the associated function to be customized with the help of parameters to be passed.***
@@ -27,12 +27,10 @@
 5. [Partition Operations](https://www.geeksforgeeks.org/stdpartition-in-c-stl/)
 
 
-* [STL](https://www.geeksforgeeks.org/the-c-standard-template-library-stl/)
-  * [Containers](https://www.geeksforgeeks.org/containers-cpp-stl/)
-     * [Vector](https://www.geeksforgeeks.org/vector-in-cpp-stl/)
-     * [List](https://www.geeksforgeeks.org/list-cpp-stl/)
-     * [Deque](https://www.geeksforgeeks.org/deque-cpp-stl/)
-     * [Array](https://www.geeksforgeeks.org/array-class-c/)
-     * [Forward List](https://www.geeksforgeeks.org/forward-list-c-set-1-introduction-important-functions/)
-     
-     
+#### [Containers](https://www.geeksforgeeks.org/containers-cpp-stl/)
+
+1. [Vector](https://www.geeksforgeeks.org/vector-in-cpp-stl/)
+2. [List](https://www.geeksforgeeks.org/list-cpp-stl/)
+3. [Deque](https://www.geeksforgeeks.org/deque-cpp-stl/)
+4. [Array](https://www.geeksforgeeks.org/array-class-c/)
+5. [Forward List](https://www.geeksforgeeks.org/forward-list-c-set-1-introduction-important-functions/)
