@@ -19,6 +19,12 @@
   * accumulate(first_iterator, last_iterator, initial value of sum) – Does the summation of vector elements
   * count(first_iterator, last_iterator,x) – To count the occurrences of x in vector.
   * find(first_iterator, last_iterator, x) – Returns an iterator to the first occurence of x in vector and points to last address of vector ((name_of_vector).end()) if element is not present in vector.
+  * binary_search(first_iterator, last_iterator, x) – Tests whether x exists in sorted vector or not.
+  * lower_bound(first_iterator, last_iterator, x) – returns an iterator pointing to the first element in the range first,last) which has a value not less than ‘x’.
+  * upper_bound(first_iterator, last_iterator, x) – returns an iterator pointing to the first element in the range first,last)which has a value greater than ‘x’. 
+
+4. [Useful Array algorithms](https://www.geeksforgeeks.org/useful-array-algorithms-in-c-stl/)
+5. [Partition Operations](https://www.geeksforgeeks.org/stdpartition-in-c-stl/)
 
 
 * [STL](https://www.geeksforgeeks.org/the-c-standard-template-library-stl/)
