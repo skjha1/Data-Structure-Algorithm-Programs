@@ -9,7 +9,7 @@
 #### Algorithm:
 1. [Sorting](https://www.geeksforgeeks.org/sort-algorithms-the-c-standard-template-library-stl/) : sort(startaddress, endaddress)
 2. [Searching](https://www.geeksforgeeks.org/binary-search-algorithms-the-c-standard-template-library-stl/) : binary_search(startaddress,endaddress, valuetofind)
-        * Returns : true if an element equal to valuetofind is found, else false.
+  * Returns : true if an element equal to valuetofind is found, else false.
 3.[Important STL Algorithms](https://www.geeksforgeeks.org/c-magicians-stl-algorithms/)
     1.sort(first_iterator, last_iterator) – To sort the given vector.
     2.reverse(first_iterator, last_iterator) – To reverse a vector.
