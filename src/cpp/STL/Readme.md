@@ -1,8 +1,8 @@
 # STL Resources 
 
 * In STL mainly we are having 
-  1. Algorithm : ***Algorithm act on containers and provide means for various operations for the contents of the containers.***
-  2. Containers : ***Containers or container classes store objects and data. ***
+  1. Algorithm : ***Algorithm act on containers and provide means for various operations for the contents of the containers***
+  2. Containers : ***Containers or container classes store objects and data.***
   3. Functions : ***Functors allow the working of the associated function to be customized with the help of parameters to be passed.***
   4. Iterators : ***Iterators are used for working upon a sequence of values. They are the major feature that allow generality in STL.***
 
