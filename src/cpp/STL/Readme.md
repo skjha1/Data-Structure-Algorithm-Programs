@@ -12,12 +12,12 @@
   * Returns : true if an element equal to valuetofind is found, else false.
 
 
-3.[Important STL Algorithms](https://www.geeksforgeeks.org/c-magicians-stl-algorithms/)
-  1.sort(first_iterator, last_iterator) – To sort the given vector.
-  2.reverse(first_iterator, last_iterator) – To reverse a vector.
-  3.max_element (first_iterator, last_iterator) – To find the maximum element of a vector.
-  4.min_element (first_iterator, last_iterator) – To find the minimum element of a vector.
-  5.accumulate(first_iterator, last_iterator, initial value of sum) – Does the summation of vector elements
+3. [Important STL Algorithms](https://www.geeksforgeeks.org/c-magicians-stl-algorithms/)
+  1. sort(first_iterator, last_iterator) – To sort the given vector.
+  2. reverse(first_iterator, last_iterator) – To reverse a vector.
+  3. max_element (first_iterator, last_iterator) – To find the maximum element of a vector.
+  4. min_element (first_iterator, last_iterator) – To find the minimum element of a vector.
+  5. accumulate(first_iterator, last_iterator, initial value of sum) – Does the summation of vector elements
 
 
 * [STL](https://www.geeksforgeeks.org/the-c-standard-template-library-stl/)
