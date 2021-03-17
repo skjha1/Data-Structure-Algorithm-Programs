@@ -1,7 +1,6 @@
 ![Language](https://img.shields.io/badge/language-C%20%2F%20Modern%20C++-orange.svg)&nbsp;
 ![Update](https://img.shields.io/badge/update-weekly-green.svg)&nbsp;
 ![Progress](https://img.shields.io/badge/progress-710%20%2F%201000-ff69b4.svg)&nbsp;
-![Travis](https://travis-ci.org/skjha1/Data-Structure-Algorithm.svg?branch=master)&nbsp;
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=skjha1.Data-Structure-Algorithm)
 
 # [:books:](https://drive.google.com/drive/folders/1Kqtnwaz-EgXbPoRLcRlp4bQAQpP_RyJg?usp=sharing)Data Structures
