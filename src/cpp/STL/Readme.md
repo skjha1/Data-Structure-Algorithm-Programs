@@ -17,6 +17,8 @@
   * max_element (first_iterator, last_iterator) – To find the maximum element of a vector.
   * min_element (first_iterator, last_iterator) – To find the minimum element of a vector.
   * accumulate(first_iterator, last_iterator, initial value of sum) – Does the summation of vector elements
+  * count(first_iterator, last_iterator,x) – To count the occurrences of x in vector.
+  * find(first_iterator, last_iterator, x) – Returns an iterator to the first occurence of x in vector and points to last address of vector ((name_of_vector).end()) if element is not present in vector.
 
 
 * [STL](https://www.geeksforgeeks.org/the-c-standard-template-library-stl/)
