@@ -5,9 +5,12 @@
 
 # [:books:](https://drive.google.com/drive/folders/1Kqtnwaz-EgXbPoRLcRlp4bQAQpP_RyJg?usp=sharing)Data Structures
 
-“ For solving any real world problem with a programming approach we need a suitable data structure. A data structure is a way to store and organize data in a computer,so that it can be used efficiently in terms of time and space”
+“ For solving any real world problem with a programming approach we need to follow some steps, collection of that steps is Algorithm, whereas a data structure is a way to store and organize data in a computer,so that it can be used efficiently in terms of time and space, so Data structure & Algorithms always allow us to write efficient and optimized computer programs.”
 
-* Problems on DSA [source](https://github.com/skjha1/Competitive-Coding)
+* ***STL*** is standard template library and it is most powerful & useful while doing competitive coding questions  [Read More](https://github.com/skjha1/Data-Structure-Algorithm/tree/master/src/cpp/STL).
+
+* Problems on DSA [source](https://github.com/skjha1/Competitive-Coding).
+
 ### Data Structures. 
 
 
