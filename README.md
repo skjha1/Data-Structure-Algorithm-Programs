@@ -1,8 +1,9 @@
+<img src="https://sloc.xyz/github/skjha1/Data-Structure-Algorithm" alt="LOC"/> <a href="https://github.com/skjha1/Data-Structure-Algorithm/stargazers"><img src="https://img.shields.io/github/stars/skjha1/Data-Structure-Algorithm" alt="Stars Badge"/></a> 
+<a href="https://github.com/skjha1/Data-Structure-Algorithm/network/members"><img src="https://img.shields.io/github/forks/skjha1/Data-Structure-Algorithm" alt="Forks Badge"/></a>
 ![Language](https://img.shields.io/badge/language-C%20%2F%20Modern%20C++-orange.svg)&nbsp;
 ![Update](https://img.shields.io/badge/update-weekly-green.svg)&nbsp;
 ![Progress](https://img.shields.io/badge/progress-710%20%2F%201000-ff69b4.svg)&nbsp;
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=skjha1.Data-Structure-Algorithm)
-<img src="https://sloc.xyz/github/skjha1/Data-Structure-Algorithm" alt="LOC"/> <a href="https://github.com/skjha1/Data-Structure-Algorithm/stargazers"><img src="https://img.shields.io/github/stars/skjha1/Data-Structure-Algorithm" alt="Stars Badge"/></a> 
 
 # [:books:](https://drive.google.com/drive/folders/1Kqtnwaz-EgXbPoRLcRlp4bQAQpP_RyJg?usp=sharing)Data Structures
 
