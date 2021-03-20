@@ -9,7 +9,7 @@
 
 * ***STL*** is standard template library and it is most powerful & useful while doing competitive coding questions  [Read More](https://github.com/skjha1/Data-Structure-Algorithm/tree/master/src/cpp/STL#stl-resources).
 
-* Problems on DSA [source](https://github.com/skjha1/Competitive-Coding).
+* Problems on Data structure & Algorithms (Competitive coding)[source](https://github.com/skjha1/Competitive-Coding#competitive-coding)
 
 ### Data Structures. 
 
