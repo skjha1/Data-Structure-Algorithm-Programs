@@ -7,7 +7,7 @@
 
 “ For solving any real world problem with a programming approach we need to follow some steps. Collection of that steps is Algorithm, whereas a data structure is a way to store and organize data in a computer,so that it can be used efficiently in terms of time and space, so Data structure & Algorithms always allow us to write efficient and optimized computer programs.”
 
-* ***STL*** is standard template library and it is most powerful & useful while doing competitive coding questions  [Read More](https://github.com/skjha1/Data-Structure-Algorithm/tree/master/src/cpp/STL).
+* ***STL*** is standard template library and it is most powerful & useful while doing competitive coding questions  [Read More](https://github.com/skjha1/Data-Structure-Algorithm/tree/master/src/cpp/STL#stl-resources).
 
 * Problems on DSA [source](https://github.com/skjha1/Competitive-Coding).
 
