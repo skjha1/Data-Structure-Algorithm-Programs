@@ -70,6 +70,8 @@ for (i = 0; i < no1; i++)
 scanf("%d", &arr1.A[i]);
 }
 arr1.length = no1;
+//int no2 = no + no1;
+//arr2->A = new int[no2];
 arr2 =Merge(&arr,&arr1);
 Display(arr2);
 return 0;
