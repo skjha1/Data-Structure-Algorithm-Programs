@@ -1,7 +1,5 @@
 #include<iostream>
 using namespace std;
-#include<iostream>
-using namespace std;
 struct Array {
 	int* A;
 	int size;
