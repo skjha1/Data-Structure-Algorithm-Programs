@@ -55,7 +55,7 @@
   - [17 Insertion and Deletion](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/17%20Insertion%20and%20Deletion.cpp)
   - [18 Menu Based problem](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/18%20Menu%20Based%20problem.cpp)
   - [19 Single Missing Element in Sorted Array](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/19%20Single%20Missing%20Element%20in%20Sorted%20Array.cpp)
-  - [20 Single Missing Value in a sorted array M2](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/20%20Single%20Missing%20Value%20in%20a%20sorted%20array%20M2.c)
+  - [20 Single Missing Value in a sorted array M2](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/20%20Single%20Missing%20Value%20in%20a%20sorted%20array%20M2.cpp)
   - [21 Multiple Missing Elements in Sorted Array](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/21%20Multiple%20Missing%20Elements%20in%20Sorted%20Array.cpp)
   - [22 Missing elements in Unsorted Array (HASH TABLE)](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/22%20Missing%20elements%20in%20Unsorted%20Array%20(HASH%20TABLE).cpp)
   - [23 Finding Duplicate in Soorted Array](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/23%20Finding%20Duplicate%20in%20Soorted%20Array.cpp)
