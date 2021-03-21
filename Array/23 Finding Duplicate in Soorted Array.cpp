@@ -7,15 +7,16 @@ struct Array {
 };
 
 void Find_Duplicate(struct Array* arr) {
-	int last_duplicate = 0;
-	for (int i = 0; i < arr->length; i++) {
-		if (arr->A[i] == arr->A[i + 1] && arr->A[i] != last_duplicate)
+	int last_duplicate = 0;// initially set duplicate as zero
+	for (int i = 0; i < arr->length; i++) { // iterate through the list of elements 
+		if (arr->A[i] == arr->A[i + 1] && arr->A[i] != last_duplicate) // if consequtive elements are equal then consider as duplicate
 		{
 			cout << arr->A[i]<<" ";
-			last_duplicate = arr->A[i];
+			last_duplicate = arr->A[i]; // everytine after printing duplicate update it will next duplicate element
 		}
 	}
 }
+
 int main() {
 	struct Array arr;
 	int no;
