@@ -1,22 +1,38 @@
 #include<iostream>
 using namespace std;
-int main()
-{
-	int a[11] = { 6,7,8,9,10,12,13,14,15,16,17 };
-	int n = sizeof(a) / sizeof(int);
-	int diff = a[0];									//initialising diff with fisrt element of the array
-
-	//We will check the difference between the index element and array index
-	//Wherever the difference wiil not be equal to diff, an element is missing there
-
-	for (int i = 0; i < n; i++)
+#include<iostream>
+using namespace std;
+struct Array {
+	int* A;
+	int size;
+	int length;
+};
+void SingleMissingElement(struct Array* arr) {
+	int sum = 0;
+	int n = arr->A[arr->length-1]; // this denotes the last element of the array
+	for (int i = 0; i < arr->length; i++)
 	{
-		if (a[i] - i != diff)					//checking the difference betweeen the index element and array index if it is equal to diff or not
-		{
-			cout << "Missing element is: " << i + diff << endl;
-			diff++;														//incrementing the diff value since from now on difference will be an updated value
-		}
+		sum += arr->A[i]; // sum of the existing array 
 	}
-	cout << endl;
+	// (n*(n+1))/2 ----> Gives the total sum upto that number 
+	int target = (n * (n + 1)) / 2- sum;
+	cout << "The missing number is " << target;
+
+}
+int main() {
+	struct Array arr;
+	int no;
+	cout << "Enter the size of the array " << endl;
+	cin >> arr.size;
+	arr.A = new int[arr.size];
+	arr.length = 0;
+	cout << "Enter the size of the array" << endl;
+	cin >> no;
+	cout << "Enter the elements of the array " << endl;
+	for (int i = 0; i < no; i++) 
+		cin >> arr.A[i];
+	arr.length = no;
+	SingleMissingElement(&arr);
 	return 0;
+
 }
