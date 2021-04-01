@@ -7,7 +7,7 @@
 
 # [:books:](https://drive.google.com/drive/folders/1Kqtnwaz-EgXbPoRLcRlp4bQAQpP_RyJg?usp=sharing)Data Structures
 
-“ For solving any real world problem with a programming approach we need to follow some steps. Collection of that steps is Algorithm, whereas a data structure is a way to store and organize data in a computer,so that it can be used efficiently in terms of time and space, so Data structure & Algorithms always allow us to write efficient and optimized computer programs.”
+“ For solving any real-world problem with a programming approach we need to follow some steps. The collection of that steps is Algorithm, whereas a data structure is a way to store and organize data during solving that problem or constructing any software so that it can be used efficiently in terms of time and space, this way Data structure & Algorithms always allow us to write efficient and optimized computer programs.”
 
 * Reference for this repo is taken from [ABDUL SIR course](https://www.udemy.com/course/datastructurescncpp/)
 
