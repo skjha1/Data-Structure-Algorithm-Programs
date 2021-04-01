@@ -2,67 +2,67 @@
 using namespace std;
 
 class Stack {
-private:
-    int size;
-    int top;
-    int* S;
+private: // Structure for stack!
+    int size; // size of the stack
+    int top; // this will decide the situation of the stack 
+    int* S; // stack Pointer to create dynamically 
 public:
-    Stack(int size);
-    ~Stack();
-    void push(int x);
-    int pop();
-    int peek(int index);
-    int isFull();
-    int isEmpty();
-    void display();
-    int stackTop();
+    Stack(int size); // Creating a parametrized constructor by class name by passing the size of the stack 
+    ~Stack(); // Destructor to remove from memory 
+    void push(int x); // delaclartion of push function i.e for inserting an element at the top of stack
+    int pop(); // declaration for the pop i.e deleting the topmost element
+    int peek(int index); // declaration of peek, knowing the element at particular index 
+    int isFull(); // declaration of isfull, this will check either the stack is full or not
+    int isEmpty(); // declaration of isempty this will check either stack is empty or not
+    void display(); // declaration of Display for displaying the stack 
+    int stackTop(); // declaration of the stacktop for checking the topmost element present in the stack 
 };
 
-Stack::Stack(int size) {
-    this->size = size;
-    top = -1;
-    S = new int[size];
+Stack::Stack(int size) { // this will create the size of the stack 
+    this->size = size; // this is used bcz we have same name parameter so assigning this function size to the private class size 
+    top = -1; // intially set top of the stack as -1;
+    S = new int[size]; // dynamically creating the size of the stack in heap memory 
 }
 
 Stack::~Stack() {
-    delete[] S;
+    delete[] S; // after using free the memory from heap 
 }
 
-void Stack::push(int x) {
-    if (isFull()) {
-        cout << "Stack Overflow!" << endl;
+void Stack::push(int x) { // this function is for inserting element at the top of stack 
+    if (isFull()) { // checking the condition if stack is full then we can't insert further any elements 
+        cout << "Stack Overflow!" << endl; // so print a message that stack is full 
     }
-    else {
-        top++;
-        S[top] = x;
+    else { // if stack is not full the 
+        top++; // increment top 
+        S[top] = x; // and push the element to stack 
     }
 }
 
-int Stack::pop() {
-    int x = 1;
-    if (isEmpty()) {
-        cout << "Stack Underflow!" << endl;
+int Stack::pop() {// deleting the element from the stack 
+    int x = 1; // initially setting x as one 
+    if (isEmpty()) { // checking the stack either it is empty if empty there is no meaning for deletion of the element 
+        cout << "Stack Underflow!" << endl; 
     }
     else {
-        x = S[top];
-        top--;
+        x = S[top]; // take out the element and then decrement the size of the stack
+        top--; // decreament the size of the stack 
     }
     return x;
 }
 
-int Stack::peek(int index) {
+int Stack::peek(int index) { // taking out the element from a particular index 
     int x = -1;
-    if (top - index + 1 < 0 || top - index + 1 == size) {
-        cout << "Invalid position!" << endl;
+    if (top - index + 1 < 0 || top - index + 1 == size) { // 1st of all check either the stack index is valid or not; it should be greater then 0 and less the size
+        cout << "Invalid position!" << endl; // if is does not shows a proper index then print invalid index 
     }
     else {
-        x = S[top - index + 1];
+        x = S[top - index + 1]; // and if the index is valid then take out the element 
     }
-    return x;
+    return x; // and return it 
 }
 
-int Stack::isFull() {
-    if (top == size - 1) {
+int Stack::isFull() { // checking either a stack is full
+    if (top == size - 1) { // if the top 
         return 1;
     }
     return 0;
@@ -75,7 +75,7 @@ int Stack::isEmpty() {
     return 0;
 }
 
-void Stack::display() {
+void Stack::display() { // since stack is lifo consider it as verticle cane of ball and taking elements at time 
     for (int i = top; i >= 0; i--) {
         cout << S[i] << " | " << flush;
     }
