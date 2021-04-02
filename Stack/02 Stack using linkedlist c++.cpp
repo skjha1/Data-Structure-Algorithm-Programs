@@ -1,4 +1,6 @@
+// this is impletation of stack using linkelist 
 #include <iostream>
+
 using namespace std;
 
 class Node {
