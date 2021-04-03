@@ -1,3 +1,4 @@
+
 <img src="https://sloc.xyz/github/skjha1/Data-Structure-Algorithm" alt="LOC"/> <a href="https://github.com/skjha1/Data-Structure-Algorithm/stargazers"><img src="https://img.shields.io/github/stars/skjha1/Data-Structure-Algorithm" alt="Stars Badge"/></a> 
 <a href="https://github.com/skjha1/Data-Structure-Algorithm/network/members"><img src="https://img.shields.io/github/forks/skjha1/Data-Structure-Algorithm" alt="Forks Badge"/></a>
 ![Language](https://img.shields.io/badge/language-C%20%2F%20Modern%20C++-orange.svg)&nbsp;
@@ -6,6 +7,9 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=skjha1.Data-Structure-Algorithm)
 
 # [:books:](https://drive.google.com/drive/folders/1Kqtnwaz-EgXbPoRLcRlp4bQAQpP_RyJg?usp=sharing)Data Structures
+
+***Before dive into this repo you should know why do we need what is Role of [DSA in your real life](https://skjha1.medium.com/role-of-data-structures-algorithms-for-software-engineer-acb1c3457b63)***
+
 
 “ For solving any real-world problem with a programming approach we need to follow some steps & strategy. The collection of that steps is Algorithm, whereas a data structure is a way to store and organize data during solving that problem or constructing any software so that it can be used efficiently in terms of time and space, this way Data structure & Algorithms always allow us to write efficient and optimized computer programs.”
 
