@@ -93,7 +93,7 @@ int Stack::stackTop() {
 int main() {
 
     int A[] = { 1, 3, 5, 7, 9 };
-
+// inside main function we will create a object of stack 
     Stack stk(sizeof(A) / sizeof(A[0]));
 
     // Populate stack with array elements
