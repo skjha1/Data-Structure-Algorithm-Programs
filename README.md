@@ -8,7 +8,7 @@
 
 # [:books:](https://drive.google.com/drive/folders/1Kqtnwaz-EgXbPoRLcRlp4bQAQpP_RyJg?usp=sharing)Data Structures
 
-***Before dive into this repo you should know why do we need what is Role of [DSA in your real life](https://skjha1.medium.com/role-of-data-structures-algorithms-for-software-engineer-acb1c3457b63)***
+***Before dive into this repo you should know why do we need these concepts. What is Role of [DSA in your real life](https://skjha1.medium.com/role-of-data-structures-algorithms-for-software-engineer-acb1c3457b63)??***
 
 
 “ For solving any real-world problem with a programming approach we need to follow some steps & strategy. The collection of that steps is Algorithm, whereas a data structure is a way to store and organize data during solving that problem or constructing any software so that it can be used efficiently in terms of time and space, this way Data structure & Algorithms always allow us to write efficient and optimized computer programs.”
