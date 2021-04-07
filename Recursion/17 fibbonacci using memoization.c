@@ -24,17 +24,17 @@ int mfib(int n)
 {
 	if (n<=1)
 	{
-		F[n]=n; 
+		F[n]=n;  // in function F of n simply return the value of the n if n is less then 1;
 		return n;
 	}
 	else 
 	{
-		if (F[n-2]==-1)
-		F[n-2]=mfib(n-2);
-		if (F[n-1]==-1);
-		F[n-1]=mfib(n-1);
+		if (F[n-2]==-1) // if place is not called then
+		F[n-2]=mfib(n-2); // call recursively
+		if (F[n-1]==-1); // if this is also not called then
+		F[n-1]=mfib(n-1);// call recursively
 		
-		return F[n-2]+F[n-1];
+		return F[n-2]+F[n-1]; // at last return the sum of the called terms 
 	}
 	
 }
