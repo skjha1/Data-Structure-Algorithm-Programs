@@ -219,3 +219,6 @@ In software development we have two phases:-
   - [Maximul Subarray](#)
   - [Integer Multiplication](#)
   - [Karatsuba Algorithm for Fast Mul](#)
+* [:blue_book:](https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews/m2G1pAq0OO0) [Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/)
+   - [Fibonacci Series](https://github.com/skjha1/Data-Structure-Algorithm-Programs/blob/master/Recursion/17%20fibbonacci%20using%20memoization.c)
+
