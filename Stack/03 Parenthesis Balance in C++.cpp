@@ -1,5 +1,5 @@
 #include <iostream>
-#include<cstring> //for applying the string function 
+#include<cstring> //Including header file for using string function(strlen..) 
 using namespace std;
 
 class Node { // structure for stack using linkedlist
