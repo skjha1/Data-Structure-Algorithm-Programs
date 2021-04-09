@@ -19,7 +19,7 @@
 
 * Problems on Data structure & Algorithms (Competitive coding)  [Click Here](https://github.com/skjha1/Competitive-Coding#competitive-coding) to get into problems section.
 
-### Data Structures. 
+### Data Structures.  
 
 
 * [:blue_book:](https://drive.google.com/file/d/1wqMgL_6w8nWgFCHYXQ0NA8Kjz8LLcmKu/view?usp=sharing) [ Recursion ](https://github.com/skjha1/Data-Structure-Algorithm/tree/master/Recursion/)
