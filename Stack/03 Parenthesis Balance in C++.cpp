@@ -102,7 +102,7 @@ char Stack::peek(int index) { // function for taking the element at an particula
 
 
 int isBalanced(char* exp) {
-    Stack stk; // creating a local  varible of stack type 
+    Stack stk; // creating a local  varible of stack type  // charater type stack 
 
     for (int i = 0; i < strlen(exp); i++) { // iterating throuhout the stack
         if (exp[i] == '(') { // if there is starting parenthisis is there then 
