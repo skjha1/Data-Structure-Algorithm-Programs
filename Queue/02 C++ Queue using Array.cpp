@@ -5,10 +5,10 @@ using namespace std;
 class Queue
 {
 private:
-	int front;
-	int rear;
-	int size;
-	int* Q;
+	int front; // front is used for deletion 
+	int rear; // rear is used for insertion
+	int size; // size of the queue 
+	int* Q; // dynamically allocated space for queue 
 public:
 	Queue()									//Non-parameterized constructor //front and rear are assigned as -1 //indicates Queue is empty
 	{
@@ -22,33 +22,33 @@ public:
 		this->size = size;
 		Q = new int[this->size];
 	}
-	void enqueue(int x);
-	int dequeue();
-	void display();
+	void enqueue(int x); // declaration for insertion element in the queue 
+	int dequeue(); // declaration for deletion of the element queue 
+	void display(); // declaration for displaying the queue 
 };
 
-void Queue::enqueue(int x)
+void Queue::enqueue(int x) // passing the value as parameter for insertion 
 {
-	if (rear == size - 1)
+	if (rear == size - 1)  // condition for checking queuefull 
 		cout << "Queue is Full" << endl;
 	else
 	{
-		rear++;
-		Q[rear] = x;
+		rear++; // increament the rear and then insert the value in the queue
+		Q[rear] = x; // insertion of the element.
 	}
 }
 
 int Queue::dequeue()
 {
-	int x = -1;
-	if (front == rear)
+	int x = -1; // initially set the value of the x to -1; setting 
+	if (front == rear) // condition for cheking the queue empty 
 		cout << "Queue is Empty" << endl;
 	else
 	{
-		front++;
+		front++; // increment the front and take out the element 
 		x = Q[front];
 	}
-	return x;
+	return x; // return the deleted value 
 }
 
 void Queue::display()
@@ -61,16 +61,16 @@ void Queue::display()
 
 int main()
 {
-	Queue q(5);
+	Queue q(5); // Creating an instance for class and setting the size as 5 
 
-	q.enqueue(10);
+	q.enqueue(10); // inserting the value in queue 
 	q.enqueue(20);
 	q.enqueue(30);
 	q.enqueue(40);
 
-	q.display();
-	q.dequeue();
-	q.display();
+	q.display(); // displaying queue 
+	q.dequeue(); // deleting the value from the queue.
+	q.display(); // then displaying it after deletion 
 
 	return 0;
 }
