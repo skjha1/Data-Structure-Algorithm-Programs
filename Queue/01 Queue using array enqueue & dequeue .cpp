@@ -40,17 +40,17 @@ int dequeue(struct Queue* q)
 	}
 	return x; // and return it 
 }
-void Display(struct Queue q)
+void Display(struct Queue q) // function for displaying queue 
 {
 	int i;
-	for (i = q.front + 1; i <= q.rear; i++)
-		printf("%d ",q.Q[i]);
+	for (i = q.front + 1; i <= q.rear; i++) // traversing the queue 
+		printf("%d ",q.Q[i]); // and printing the eleemnt 
 	printf("\n");
 }
 int main()
 {
-	struct Queue q;
-	Create(&q, 5);
+	struct Queue q; // making a queue objects in main funtion 
+	Create(&q, 5); 
 	enqueue(&q, 10);
 	enqueue(&q, 15);
 	enqueue(&q, 20);
