@@ -1,3 +1,5 @@
+// deletion will be always done from front 
+// insertion will be always done from rear
 #include<stdio.h>
 #include<stdlib.h>
 
@@ -18,25 +20,25 @@ void Create(struct Queue* q, int size)
 }
 void enqueue(struct Queue* q, int x)
 {
-	if (q->rear == q->size - 1)
+	if (q->rear == q->size - 1) // condition for checking either queue is full or not 
 		printf("queue is full");
-	else
+	else // if queue is not full then we can insert element in queue 
 	{
-		q->rear++;
-		q->Q[q->rear] = x;
+		q->rear++; // increatment the rear and then insert element 
+		q->Q[q->rear] = x;// inserting element in the queue 
 	}
 }
 int dequeue(struct Queue* q)
 {
-	int x = -1;
-	if (q->front == q->rear)
+	int x = -1; // assign x with -1 intially 
+	if (q->front == q->rear) // condition for checking the either queue is empty or not 
 		printf("Queue is empty");
-	else
+	else // if there is element in the queue 
 	{
-		q->front++;
-		x=q->Q[q->front];
+		q->front++; // increment the front and then take out the front element
+		x=q->Q[q->front]; // store deleted element in the x 
 	}
-	return x;
+	return x; // and return it 
 }
 void Display(struct Queue q)
 {
