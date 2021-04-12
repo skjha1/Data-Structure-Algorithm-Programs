@@ -127,7 +127,7 @@
   - [05 Queue using Linkedlist](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Queue/05%20Queue%20using%20Linkedlist%20%20(2).cpp)[:blue_book:](https://drive.google.com/file/d/1YCTxzxrhZTuhNWp4CCfXQiDCHUE03wZM/view?usp=sharing)
   - [06 DEQueue using Array](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Queue/06%20DEQueue%20using%20Array%20.cpp)
   - [07 Queue using two stack](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Queue/07%20Queue%20using%20two%20stack.cpp)[:blue_book:](https://drive.google.com/file/d/1q3WJfs1odBTvpOPJiiPiFowipzJlDAZU/view?usp=sharing)
-* [:blue_book:](https://drive.google.com/drive/folders/11Qz42ugnZYSZIqecGqlLYsioXRWtnQDf) [Tree](https://github.com/skjha1/Data-Structure-Algorithm/tree/master/Tree/Basic)
+* [:blue_book:](https://drive.google.com/file/d/1wMuxdNi3hc1FgqFIM4KyDcDtEQGt1m-X/view?usp=sharing) [Tree](https://github.com/skjha1/Data-Structure-Algorithm/tree/master/Tree/Basic)
   - [01 Traversal of tree](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Tree/Basic/01%20Traversal%20of%20tree.cpp)
   - [02 Iterative and recursive traversal of tree](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Tree/Basic/02%20Iterative%20and%20recursive%20traversal%20of%20tree%20.cpp)
   - [03 Traversal of Tree](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Tree/Basic/02%20Traversal%20of%20Tree.c)
