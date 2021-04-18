@@ -42,14 +42,14 @@
   - [16 nCr formula](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Recursion/18%20nCr%20formula.c)
   - [17 Tower of Hanoi](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Recursion/19%20Tower%20of%20Hanoi%20.c)
   
-* [:blue_book:](https://drive.google.com/drive/folders/1VzrX63lw2w44Vr3WL8udBO5Cyc3-W5vc) [Array](https://github.com/skjha1/Data-Structure-Algorithm/tree/master/Array)
+* [:blue_book:](https://drive.google.com/drive/folders/1VzrX63lw2w44Vr3WL8udBO5Cyc3-W5vc) [Array](https://github.com/skjha1/Data-Structure-Algorithm/tree/master/Array)[:blue_book:](https://drive.google.com/file/d/1xcQ5F_JO3phebAEIN1FCVElpC0fyfO76/view?usp=sharing)
   - [01 Static and dynamic array](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/01%20static%20and%20dynamic%20array%20.c)
   - [02 Increasing size of array in heap](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/02%20increasing%20size%20of%20array%20using%20heap.cpp)
   - [03 Creating 2D array & Accessing](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/03%20Creating%202D%20array%20%26%20Accessing.c)
-  - [04 Array ADT1](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/04%20Array%20ADT.c)
-  - [05 inserting an element](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/05%20inserting%20an%20element.c)
-  - [06 Deleting element](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/06%20Deleting%20element%20from%20array.c)
-  - [07 Linear search](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/07%20Linear%20search.c)
+  - [04 Array ADT1](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/04%20Array%20ADT.c))[:blue_book:](https://drive.google.com/file/d/1anGGCqZ-ncu7PZAKYy3yymD-M-0Evhzv/view?usp=sharing)
+  - [05 inserting an element](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/05%20inserting%20an%20element.c))[:blue_book:](https://drive.google.com/file/d/1anGGCqZ-ncu7PZAKYy3yymD-M-0Evhzv/view?usp=sharing)
+  - [06 Deleting element](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/06%20Deleting%20element%20from%20array.c)[:blue_book:](https://drive.google.com/file/d/1anGGCqZ-ncu7PZAKYy3yymD-M-0Evhzv/view?usp=sharing)
+  - [07 Linear search](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/07%20Linear%20search.c)[:blue_book:](https://drive.google.com/file/d/1anGGCqZ-ncu7PZAKYy3yymD-M-0Evhzv/view?usp=sharing)
   - [08 Improving Linear search](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/08%20Improving%20Linear%20search.c)
   - [09 Binary Search Using Recursion](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/10%20Binary%20Search%20Using%20Recursion.c)
   - [10 Binary Search using loop](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/09%20Binary%20Search%20using%20loop.c)
@@ -211,7 +211,7 @@ In software development we have two phases:-
 
 
 * [:blue_book:](https://drive.google.com/file/d/1wqMgL_6w8nWgFCHYXQ0NA8Kjz8LLcmKu/view?usp=sharing) [Time Complexity and Problems](https://github.com/skjha1/Data-Structure-Algorithm/tree/master/src/TC/Time%20Complexity%20problems)
-* [:blue_book:](https://drive.google.com/drive/folders/1YFkrOjBOpbVwJ7SrrVxommPce43RJBNG) [Divide & Conquer](https://drive.google.com/file/d/1Tii-skCVlL-gFGAkk5pUSbm9TwOJGsVf/view?usp=sharing)
+* [:blue_book:](https://drive.google.com/drive/folders/1YFkrOjBOpbVwJ7SrrVxommPce43RJBNG) [Divide & Conquer](https://drive.google.com/file/d/1Tii-skCVlL-gFGAkk5pUSbm9TwOJGsVf/view?usp=sharing)[:blue_book:](https://drive.google.com/file/d/1Tii-skCVlL-gFGAkk5pUSbm9TwOJGsVf/view?usp=sharing)
   - [Merge Sort](https://drive.google.com/drive/folders/1YFkrOjBOpbVwJ7SrrVxommPce43RJBNG)
   - [Quick Sort](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/src/Algorithms/Divide%20%26%20Conquer/02%20Quicksort.cpp)
   - [Binary Search  (logn)](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/src/Algorithms/Divide%20%26%20Conquer/01%20Binary%20Search.cpp)[:blue_book:](https://drive.google.com/file/d/14J3UY400OcnlqyIJIIox9RRSNZDEbRjT/view?usp=sharing)
