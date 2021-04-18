@@ -50,7 +50,7 @@
   - [05 inserting an element](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/05%20inserting%20an%20element.c))[:blue_book:](https://drive.google.com/file/d/1-Bv3t1bjnXdhFwd3SU_yw1eaBXDWHZJC/view?usp=sharing)
   - [06 Deleting element](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/06%20Deleting%20element%20from%20array.c)[:blue_book:](https://drive.google.com/file/d/1anGGCqZ-ncu7PZAKYy3yymD-M-0Evhzv/view?usp=sharing)
   - [07 Linear search](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/07%20Linear%20search.c)[:blue_book:](https://drive.google.com/file/d/1anGGCqZ-ncu7PZAKYy3yymD-M-0Evhzv/view?usp=sharing)
-  - [08 Improving Linear search](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/08%20Improving%20Linear%20search.c)
+  - [08 Improving Linear search](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/08%20Improving%20Linear%20search.c)[:blue_book:](https://drive.google.com/file/d/1anGGCqZ-ncu7PZAKYy3yymD-M-0Evhzv/view?usp=sharing)
   - [09 Binary Search Using Recursion](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/10%20Binary%20Search%20Using%20Recursion.c)
   - [10 Binary Search using loop](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/09%20Binary%20Search%20using%20loop.c)
   - [11 Get Set max min sum avg](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/11%20Get%20Set%20max%20min%20sum%20avg.c)
