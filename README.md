@@ -54,7 +54,7 @@
   - [09 Binary Search Using Recursion](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/10%20Binary%20Search%20Using%20Recursion.c)
   - [10 Binary Search using loop](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/09%20Binary%20Search%20using%20loop.c)
   - [11 Get Set max min sum avg](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/11%20Get%20Set%20max%20min%20sum%20avg.c)
-  - [12 Rotate and Shift](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/12%20Rotate%20and%20Shift.c)
+  - [12 Reverse and Shift](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/12%20Rotate%20and%20Shift.c)[:blue_book:](https://drive.google.com/file/d/1WZavwAopu-1Fd1_O_b3KJJjxDPidlxyX/view?usp=sharing)
   - [13 IsSorted](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/13%20IsSorted%20.c)
   - [14 Mergeing 2 Array](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/14%20Mergeing%202%20Array.cpp)
   - [15 InsertSort](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/15%20InsertSort%20.c)
