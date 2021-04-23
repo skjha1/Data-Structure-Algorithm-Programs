@@ -224,8 +224,11 @@ In software development we have two phases:-
    - [01 Fibonacci Series](https://github.com/skjha1/Data-Structure-Algorithm-Programs/blob/master/Recursion/17%20fibbonacci%20using%20memoization.c)
    - [02 Knapsack Recursion](https://github.com/skjha1/Data-Structure-Algorithm-Programs/blob/master/src/Algorithms/Dynamic%20Programming/01%20Recursive%20Knapsack.cpp)[:blue_book:](https://drive.google.com/file/d/1DhuwI5-RWRfu1FO9_RAOnn46c5Lf687O/view?usp=sharing)
    - [03 Knapsack Memoization](https://github.com/skjha1/Data-Structure-Algorithm-Programs/blob/master/src/Algorithms/Dynamic%20Programming/02%20Knapsack%20Memoization(DP).cpp)[:blue_book:](https://drive.google.com/file/d/1nwv4ZAAAbZrUVi8Po49grzYiJo39ibSw/view?usp=sharing)
-   - Applications of Knapsack Problem 
-    * ***Resourse allocation with financial constraints*** 
-    * ***Construction and Scoring of Heterogenous test*** 
-    * ***Selection of capital investments***
+    - Applications of Knapsack Problem 
+    1. ***Resourse allocation with financial constraints*** 
+    2. ***Construction and Scoring of Heterogenous test*** 
+    3. ***Selection of capital investments***
+   - [04 Knapsack Bottom-Up(DP)](https://github.com/skjha1/Data-Structure-Algorithm-Programs/blob/master/src/Algorithms/Dynamic%20Programming/03%20Knapsack%20Bottom%20up.cpp)[:blue_book:](https://drive.google.com/file/d/1X8Vr_PYOwHiaBBkDtifnjcdmJ1dYPphf/view?usp=sharing)
+
+
 
