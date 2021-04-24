@@ -229,6 +229,7 @@ In software development we have two phases:-
     2. ***Construction and Scoring of Heterogenous test*** 
     3. ***Selection of capital investments***
    - [04 Knapsack Bottom-Up(DP)](https://github.com/skjha1/Data-Structure-Algorithm-Programs/blob/master/src/Algorithms/Dynamic%20Programming/03%20Knapsack%20Bottom%20up.cpp)[:blue_book:](https://drive.google.com/file/d/1X8Vr_PYOwHiaBBkDtifnjcdmJ1dYPphf/view?usp=sharing)
+   - [05 Subset sum(Knapsack Variation)](https://github.com/skjha1/Data-Structure-Algorithm-Programs/blob/master/src/Algorithms/Dynamic%20Programming/04%20Subset%20sum(Knapsack%20variation).cpp)[:blue_book:](https://drive.google.com/file/d/18w_Sca0Jn18X4m8sjzFXpo-1Hxsu7uSt/view?usp=sharing)
 
 
 
