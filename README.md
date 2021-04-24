@@ -19,9 +19,9 @@
 
 * Problems on Data structure & Algorithms (Competitive coding)  [Click Here](https://github.com/skjha1/Competitive-Coding#competitive-coding) to get into problems section.
 * **NOTE** : Click on [:blue_book:] for getting hand written notes on particular topic.
-
-![](https://github.com/skjha1/Data-Structure-Algorithm-Programs/blob/master/src/Img/DSA.png)
-
+<p align="center">
+  <img width="460" height="300" src="https://github.com/skjha1/Data-Structure-Algorithm-Programs/blob/master/src/Img/DSA.png">
+</p>
 ### Data Structures  
 
 
@@ -226,7 +226,9 @@ In software development we have two phases:-
 
 #### * [:blue_book:](https://drive.google.com/drive/folders/1pDrF9Elmm0jsq227rKklIkUFSrNeigYa) [Dynamic Programming](https://github.com/skjha1/Data-Structure-Algorithm-Programs/tree/master/src/Algorithms/Dynamic%20Programming)
 
-![](https://github.com/skjha1/Data-Structure-Algorithm-Programs/blob/master/src/Img/DP.png)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/skjha1/Data-Structure-Algorithm-Programs/blob/master/src/Img/DP.png">
+</p>
 
    - [01 Fibonacci Series](https://github.com/skjha1/Data-Structure-Algorithm-Programs/blob/master/Recursion/17%20fibbonacci%20using%20memoization.c)
    - [02 Knapsack Recursion](https://github.com/skjha1/Data-Structure-Algorithm-Programs/blob/master/src/Algorithms/Dynamic%20Programming/01%20Recursive%20Knapsack.cpp)[:blue_book:](https://drive.google.com/file/d/1DhuwI5-RWRfu1FO9_RAOnn46c5Lf687O/view?usp=sharing)
