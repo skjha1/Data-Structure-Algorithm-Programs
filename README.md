@@ -244,6 +244,7 @@ In software development we have two phases:-
    - [04 Knapsack Bottom-Up(DP)](https://github.com/skjha1/Data-Structure-Algorithm-Programs/blob/master/src/Algorithms/Dynamic%20Programming/03%20Knapsack%20Bottom%20up.cpp)[:blue_book:](https://drive.google.com/file/d/1X8Vr_PYOwHiaBBkDtifnjcdmJ1dYPphf/view?usp=sharing)
    - [05 Subset sum(Knapsack Variation)](https://github.com/skjha1/Data-Structure-Algorithm-Programs/blob/master/src/Algorithms/Dynamic%20Programming/04%20Subset%20sum(Knapsack%20variation).cpp)[:blue_book:](https://drive.google.com/file/d/18w_Sca0Jn18X4m8sjzFXpo-1Hxsu7uSt/view?usp=sharing)
    - [06 Equal sum partition(subset sum & Knapsack Variation)](https://github.com/skjha1/Data-Structure-Algorithm-Programs/blob/master/src/Algorithms/Dynamic%20Programming/05%20Equal%20sum%20partition.cpp)[:blue_book:](https://drive.google.com/file/d/1w3a8Xg8UzkeY6mStgnMkK9wnYRNVSBSB/view?usp=sharing)
+   - [06 Count of Subsets with given Sum(subset sum & Knapsack Variation)](https://github.com/skjha1/Data-Structure-Algorithm-Programs/blob/master/src/Algorithms/Dynamic%20Programming/06%20Count%20of%20Subsets%20with%20given%20Sum.cpp)[:blue_book:](https://drive.google.com/file/d/181rnNr7JfxWQgfxImbCnSuUEatCl1yZn/view?usp=sharing)
 
 
 
