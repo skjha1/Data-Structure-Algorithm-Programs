@@ -21,10 +21,6 @@
 * **NOTE** : Click on [:blue_book:] for getting hand written notes on particular topic.
 
 
-<p align="center">
-  <img width="460" height="300" src="https://github.com/skjha1/Data-Structure-Algorithm-Programs/blob/master/src/Img/DSA.png">
-</p>
-
 
 ### Data Structures  
 
