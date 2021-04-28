@@ -7,7 +7,7 @@ vector<int> isSubsetPoss(int arr[], int n, int sum) {
 	for (int i = 0; i <= n; i++) {
 		for (int j = 0; j <= sum; j++) {
 			if (i == 0)
-				t[i][j] = false;
+				t[i][j] = false; 
 			if (j == 0)
 				t[i][j] = true;
 		}
@@ -23,9 +23,9 @@ vector<int> isSubsetPoss(int arr[], int n, int sum) {
 	}
 
 	vector<int> v; // contains all subset sums possible with n elements // creating a vector varible to store all the element of the last row 
-	for (int j = 0; j <= sum; j++)
-		if (t[n][j] == true)
-			v.push_back(j);
+	for (int j = 0; j <= sum; j++) // from the range we need to exclude the element which is not there in the existing problem 
+		if (t[n][j] == true) // keep true to only those place whose subset sum exist
+			v.push_back(j); // store in the vector 
 
 	return v;
 }
@@ -37,7 +37,7 @@ int MinSubsetSumDiff(int arr[], int n) {
 
 	vector<int> v = isSubsetPoss(arr, n, range);
 	int mn = INT_MAX;
-	for (int i = 0; i < v.size(); i++)
+	for (int i = 0; i < v.size(); i++) // iterating through the last row of the matrix 
 		mn = min(mn, abs(range - 2 * v[i])); // taking minimum from the last row 
 
 	return mn;
