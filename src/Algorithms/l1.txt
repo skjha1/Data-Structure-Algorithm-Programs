@@ -1,0 +1,134 @@
+GREEDY :
+1. https://practice.geeksforgeeks.org/problems/coin-piles/0
+2. https://practice.geeksforgeeks.org/problems/minimize-the-heights/0
+3. Huffman Encoding & Decoding
+4. https://practice.geeksforgeeks.org/problems/geek-collects-the-balls/0
+5. https://www.geeksforgeeks.org/find-minimum-time-to-finish-all-jobs-with-given-constraints/
+6. https://practice.geeksforgeeks.org/problems/job-sequencing-problem/0
+7. https://www.geeksforgeeks.org/minimum-number-platforms-required-railwaybus-station/
+8. https://www.geeksforgeeks.org/minimize-cash-flow-among-given-set-friends-borrowed-money/
+
+RECURSION :
+1. Josephus Problem - https://practice.geeksforgeeks.org/problems/josephus-problem/1 
+2. https://practice.geeksforgeeks.org/problems/special-keyboard3018/1
+3. Aaditya Verma Playlist - ****
+
+BACKTRACKING :
+1. https://practice.geeksforgeeks.org/problems/n-queen-problem/0
+2. https://practice.geeksforgeeks.org/problems/word-boggle/0
+3. https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1
+
+Divide and Conquer :
+1. Binary Search - Aaditya Verma Playlist ***
+2. Merge Sort( space O(1) ) and Quick sort
+
+Bit Magic : 
+*** Integer.bitCount(xor) gives set bits in a number
+1. https://practice.geeksforgeeks.org/problems/maximum-subset-xor/1
+2. https://practice.geeksforgeeks.org/problems/rotate-bits/0
+3. https://practice.geeksforgeeks.org/problems/power-of-2/0
+
+HEAP :
+1. https://practice.geeksforgeeks.org/problems/find-median-in-a-stream/0
+2. **** Aaditya Verma playlist
+3. https://www.geeksforgeeks.org/merge-k-sorted-linked-lists-set-2-using-min-heap/
+
+HASHING :
+1. https://practice.geeksforgeeks.org/problems/relative-sorting/0
+2. https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers/0 **
+3. https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem/0 ***
+4. https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string/0
+
+STACK :
+1. Aaditya Verma Playlist ****
+2. https://practice.geeksforgeeks.org/problems/get-minimum-element-from-stack/1
+3. https://practice.geeksforgeeks.org/problems/next-larger-element/0
+4. https://practice.geeksforgeeks.org/problems/parenthesis-checker/0
+
+QUEUE :
+1. https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0
+
+STRING :
+1. https://practice.geeksforgeeks.org/problems/recursively-remove-all-adjacent-duplicates/0
+2. Longest Palindromic substring and subsequence
+3. https://practice.geeksforgeeks.org/problems/longest-common-prefix-in-an-array/0 **
+4. https://practice.geeksforgeeks.org/problems/form-a-palindrome/0
+5. https://practice.geeksforgeeks.org/problems/geek-and-its-colored-strings1355/1 **
+6. https://practice.geeksforgeeks.org/problems/camelcase-pattern-matching/0
+7. Next greater or smaller permutations
+8. https://www.geeksforgeeks.org/write-a-c-program-to-print-all-permutations-of-a-given-string/
+
+
+LINKED LIST :
+1. Hare & Tortoise (Slow Fast Pointer) video from Gaurav Sen.
+2. https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1
+3. https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1
+4. https://practice.geeksforgeeks.org/problems/merge-two-sorted-linked-lists/1
+5. https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1
+6. https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1
+
+ARRAYS :
+1. https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0
+2. Kadanes Algorithm - Maximum Subarray Sum ***
+3. Rainwater Trap 
+4. Stock Buy And Sell 
+5. Array Inversion or Inversion Count
+6. Min Platforms - https://practice.geeksforgeeks.org/problems/minimum-platforms/0
+7. Next larger premutation ******
+8. SWAP SORT Aaditya Verma**
+9. https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1 (WITHOUT EXTRA SPACE in NLogN + MLogM) **
+10. https://practice.geeksforgeeks.org/problems/largest-number-formed-from-an-array1117/1
+11. https://practice.geeksforgeeks.org/problems/number-of-pairs3422/1 --> x^y > y^x
+12. https://www.geeksforgeeks.org/find-the-smallest-positive-number-missing-from-an-unsorted-array/
+
+
+TREE & BST :
+1. Top View, Bottom View, Left View, Right View
+2. Vertical Traversal
+3. BFS DFS
+4. Nodes at same level
+5. Diameter of Bin tree using DP  See aditya verma video DP - 48
+6. Mirror Trees
+7. Bin Tree to Doubly Linked List - https://practice.geeksforgeeks.org/viewSol.php?subId=6808b6c2522c4a816d70808975d4c8e6&pid=700144&user=amanmishra10
+8. Serialize and Deserialize Bin Tree ** - https://www.geeksforgeeks.org/serialize-deserialize-binary-tree/
+					&& https://practice.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1
+
+9. Max Path Sum ** - https://practice.geeksforgeeks.org/viewSol.php?subId=26f828e0a5267a1079fc8816c563e6c3&pid=700554&user=amanmishra10
+10. Make Binary tree from Level Order, Inoder, Preorder, Postorder traversals
+11. Based on use of DP from any node to any node - https://practice.geeksforgeeks.org/problems/maximum-path-sum-from-any-node/1 ****
+12. Based on Use of DP from leaf to leaf- https://practice.geeksforgeeks.org/problems/maximum-path-sum/1
+13. All possible BST - https://www.geeksforgeeks.org/construct-all-possible-bsts-for-keys-1-to-n/
+					- https://www.interviewbit.com/problems/unique-binary-search-trees/
+
+7. All tree questions here - https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/#trees
+
+
+GRAPH :
+1. Shortest Min Path (Movements allowed UP, DOWN, LEFT, RIGHT)
+https://practice.geeksforgeeks.org/viewSol.php?subId=8d46f7973cfbcea02559fc942eb20c51&pid=1512&user=amanmishra10
+
+2. DFS, BFS
+3. Cycle Detection in Directed, Undirected Graph
+4. Topological Sort
+5. No. of Islands
+6. Djisktra, Floyd Warshall, Bellman Ford Algo
+7. Strongly Connected Components (KOSARAJUS ALGO)
+8. Snakes and Ladders - https://practice.geeksforgeeks.org/problems/snake-and-ladder-problem/0
+9. All questions here - https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/#graph
+
+
+DP :
+1. **** Aaditya Verma Playlist
+2. Longest Even Length Substring
+3. Longest Increasing Subsequence **********
+3. https://practice.geeksforgeeks.org/problems/number-of-coins1824/1 - Min No of COINS - Eg of Unbounded knapsack ***
+4. Box Stacking - https://practice.geeksforgeeks.org/problems/box-stacking/1 , variation of Longest Increasing Subsequence
+5. Path in a matrix - https://www.geeksforgeeks.org/find-the-longest-path-in-a-matrix-with-given-constraints/
+6. Minimum number of jumps - https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0
+7. Max Chain Length - Variation of Longest Increasing Subsequence - https://practice.geeksforgeeks.org/problems/max-length-chain/1
+8. All questions here - https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/#DP
+9. Scrambled String - https://leetcode.com/submissions/detail/403463115/ 
+
+**** SHELL Sort
+**** WHEN USING SLIDING WINDOW USE DS LIKE HEAP, MAP, DEQUE TO DO MANIPULATIONS WHILE U MOVE FORWARD
+**** SUBSET, SUBSEQUENCE, PERMUTATIONS AND THEIR VARIATIONS including panlindromic variat
