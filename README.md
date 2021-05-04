@@ -224,6 +224,8 @@ In software development we have two phases:-
   - [Karatsuba Algorithm for Fast Mul](#)
 
 
+
+ - [:blue_book:](https://drive.google.com/file/d/17tKaH-RDgzqQQd1CRSHxVZrVTWXNSmSV/view?usp=sharing) [Sliding Window technique](https://www.geeksforgeeks.org/window-sliding-technique/)
 #### * [:blue_book:](https://drive.google.com/drive/folders/1pDrF9Elmm0jsq227rKklIkUFSrNeigYa) [Dynamic Programming](https://github.com/skjha1/Data-Structure-Algorithm-Programs/tree/master/src/Algorithms/Dynamic%20Programming)
 
 <p align="center">
