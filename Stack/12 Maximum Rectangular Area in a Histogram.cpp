@@ -1,3 +1,4 @@
+// https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram-1587115620/1#
 class Solution
 {
   public:
@@ -65,21 +66,8 @@ class Solution
     long long m=INT_MIN;
     for (long long i=0;i<n;i++)
     {
-      m=max(m,(right[i]-left[i]-1)*arr[i]);
+      m=max(m,(right[i]-left[i]-1)*arr[i]); // taking max after finding area
     }
     return m;
   }
 };
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
