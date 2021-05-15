@@ -214,7 +214,7 @@ In software development we have two phases:-
 
 * [:blue_book:](https://drive.google.com/file/d/1wqMgL_6w8nWgFCHYXQ0NA8Kjz8LLcmKu/view?usp=sharing) [Time Complexity and Problems](https://github.com/skjha1/Data-Structure-Algorithm/tree/master/src/TC/Time%20Complexity%20problems)
 * [:blue_book:](https://drive.google.com/drive/folders/1YFkrOjBOpbVwJ7SrrVxommPce43RJBNG) [Divide & Conquer](https://drive.google.com/file/d/1Tii-skCVlL-gFGAkk5pUSbm9TwOJGsVf/view?usp=sharing)[:blue_book:](https://drive.google.com/file/d/1Tii-skCVlL-gFGAkk5pUSbm9TwOJGsVf/view?usp=sharing)
-  - [Merge Sort](https://drive.google.com/drive/folders/1YFkrOjBOpbVwJ7SrrVxommPce43RJBNG)
+  - [Merge Sort](https://github.com/skjha1/Data-Structure-Algorithm-Programs/blob/master/src/Algorithms/Divide%20%26%20Conquer/03%20Merge%20sort.cpp)[:blue_book:](https://drive.google.com/drive/folders/1YFkrOjBOpbVwJ7SrrVxommPce43RJBNG)
   - [Quick Sort](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/src/Algorithms/Divide%20%26%20Conquer/02%20Quicksort.cpp)
   - [Binary Search  (logn)](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/src/Algorithms/Divide%20%26%20Conquer/01%20Binary%20Search.cpp)[:blue_book:](https://drive.google.com/file/d/14J3UY400OcnlqyIJIIox9RRSNZDEbRjT/view?usp=sharing)
   - [Closest Pair of Points | O(nlogn)](https://www.geeksforgeeks.org/closest-pair-of-points-onlogn-implementation/)
