@@ -28,6 +28,12 @@
 ### Data Structures  
 
 
+## Topics Of Data-structure & Algorithms and Related Programs🔭🔭
+
+### [Recursion](https://github.com/skjha1/Data-Structure-Algorithm-Programs#blue_book--recursion-)
+### [Array](#)
+
+
 ### [:blue_book:](https://drive.google.com/file/d/1wqMgL_6w8nWgFCHYXQ0NA8Kjz8LLcmKu/view?usp=sharing) [ Recursion ](https://github.com/skjha1/Data-Structure-Algorithm/tree/master/Recursion/)
   - [01 Head Recursion](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Recursion/02%20head%20recursion.cpp)
   - [02 Tail Recursion](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Recursion/01%20Tail%20recursion.cpp)
@@ -47,7 +53,7 @@
   - [16 nCr formula](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Recursion/18%20nCr%20formula.c)
   - [17 Tower of Hanoi](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Recursion/19%20Tower%20of%20Hanoi%20.c)
   
-* [:blue_book:](https://drive.google.com/drive/folders/1VzrX63lw2w44Vr3WL8udBO5Cyc3-W5vc) [Array](https://github.com/skjha1/Data-Structure-Algorithm/tree/master/Array)[:blue_book:](https://drive.google.com/file/d/1xcQ5F_JO3phebAEIN1FCVElpC0fyfO76/view?usp=sharing)
+### * [:blue_book:](https://drive.google.com/drive/folders/1VzrX63lw2w44Vr3WL8udBO5Cyc3-W5vc) [Array](https://github.com/skjha1/Data-Structure-Algorithm/tree/master/Array)[:blue_book:](https://drive.google.com/file/d/1xcQ5F_JO3phebAEIN1FCVElpC0fyfO76/view?usp=sharing)
   - [01 Static and dynamic array](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/01%20static%20and%20dynamic%20array%20.c)
   - [02 Increasing size of array in heap](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/02%20increasing%20size%20of%20array%20using%20heap.cpp)
   - [03 Creating 2D array & Accessing](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/03%20Creating%202D%20array%20%26%20Accessing.c)
@@ -80,7 +86,7 @@
   - [30 Find a pair with sum k using Hashing](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/29%20Find%20a%20pair%20with%20sum%20k%20using%20Hashing.cpp)
   - [31 Finding max & min in single scan](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Array/30%20Finding%20max%20%26%20min%20in%20single%20scan.cpp)
       - [Problems on array](https://github.com/skjha1/Data-Structure-Algorithm/tree/master/Array/Problems)
-* [:blue_book:](https://drive.google.com/drive/folders/1VzrX63lw2w44Vr3WL8udBO5Cyc3-W5vc) [String](https://github.com/skjha1/Data-Structure-Algorithm/tree/master/String)
+### * [:blue_book:](https://drive.google.com/drive/folders/1VzrX63lw2w44Vr3WL8udBO5Cyc3-W5vc) [String](https://github.com/skjha1/Data-Structure-Algorithm/tree/master/String)
    - [01 Length of string](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/String/01%20Length%20of%20string.cpp)
    - [02 Upper to Lower](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/String/02%20Upper%20to%20Lower.cpp)
    - [03 lower to upper](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/String/03%20lower%20to%20upper.cpp)
@@ -88,7 +94,7 @@
    - [05 Vowel & Counstant count](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/String/05%20Vowel%20%26%20Counstant%20count.cpp)
    - [06 Word Count](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/String/06%20Word%20Count.cpp)
    - [07 Reverse the string](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/String/07%20Reverse%20the%20string.cpp)
-* [:blue_book:](https://drive.google.com/drive/folders/1bXAJjz9Nw7IWJVN7Bwv8j-hVqxM9LVzZ) [Linkedlist](https://github.com/skjha1/Data-Structure-Algorithm/tree/master/LinkedList)
+### * [:blue_book:](https://drive.google.com/drive/folders/1bXAJjz9Nw7IWJVN7Bwv8j-hVqxM9LVzZ) [Linkedlist](https://github.com/skjha1/Data-Structure-Algorithm/tree/master/LinkedList)
   - [01 Display LL](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/LinkedList/Basic%20Consept/01%20Display%20LL.c)
   - [02 Display LL Using Recursion](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/LinkedList/Basic%20Consept/02%20Display%20LL%20Using%20Recursion.c)
   - [03 Count and sum of LL](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/LinkedList/Basic%20Consept/03%20Count%20and%20sum%20of%20LL.cpp)
@@ -118,7 +124,7 @@
   - [27 Middle of Linkedlist](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/LinkedList/Basic%20Consept/28%20Middle%20of%20Linkedlist.c)
   - [28 Polynomial of Linkedlist](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/LinkedList/Basic%20Consept/29%20Polynomial%20of%20Linkedlist.c)
     - [Problems on LL](https://github.com/skjha1/Data-Structure-Algorithm/tree/master/LinkedList/Problems)
-* [:blue_book:](https://drive.google.com/drive/folders/1dcvKsdtrZWvxUk9Th28W8dc8qW954ZFX) [Stack](https://github.com/skjha1/Data-Structure-Algorithm/tree/master/Stack)
+### * [:blue_book:](https://drive.google.com/drive/folders/1dcvKsdtrZWvxUk9Th28W8dc8qW954ZFX) [Stack](https://github.com/skjha1/Data-Structure-Algorithm/tree/master/Stack)
   - [01 Operation on stack](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Stack/01%20Operation%20on%20stack%20c%2B%2B%20.cpp)
   - [02 Stack using linkedlist](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Stack/02%20Stack%20using%20linkedlist%20c%2B%2B.cpp)
   - [03 Parenthesis Balance](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Stack/03%20Parenthesis%20Balance%20in%20C%2B%2B.cpp)
@@ -133,7 +139,7 @@
   - [05 Queue using Linkedlist](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Queue/05%20Queue%20using%20Linkedlist%20%20(2).cpp)[:blue_book:](https://drive.google.com/file/d/1YCTxzxrhZTuhNWp4CCfXQiDCHUE03wZM/view?usp=sharing)
   - [06 DEQueue using Array](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Queue/06%20DEQueue%20using%20Array%20.cpp)
   - [07 Queue using two stack](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Queue/07%20Queue%20using%20two%20stack.cpp)[:blue_book:](https://drive.google.com/file/d/1q3WJfs1odBTvpOPJiiPiFowipzJlDAZU/view?usp=sharing)
-* [:blue_book:](https://drive.google.com/file/d/1wMuxdNi3hc1FgqFIM4KyDcDtEQGt1m-X/view?usp=sharing) [Tree](https://github.com/skjha1/Data-Structure-Algorithm/tree/master/Tree/Basic)
+### * [:blue_book:](https://drive.google.com/file/d/1wMuxdNi3hc1FgqFIM4KyDcDtEQGt1m-X/view?usp=sharing) [Tree](https://github.com/skjha1/Data-Structure-Algorithm/tree/master/Tree/Basic)
   - [01 Traversal of tree](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Tree/Basic/01%20Traversal%20of%20tree.cpp)
   - [02 Iterative and recursive traversal of tree](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Tree/Basic/02%20Iterative%20and%20recursive%20traversal%20of%20tree%20.cpp)
   - [03 Traversal of Tree](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Tree/Basic/02%20Traversal%20of%20Tree.c)
@@ -143,33 +149,33 @@
   - [07 Sum of tree](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Tree/Basic/06%20Sum%20of%20tree.c)
   - [08 D1,D2,D0(leaf node) count](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Tree/Basic/07%20D1%2CD2%2CD0(leaf%20node)%20count.cpp)
   - [09 Leaf,D1,D2 node count](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Tree/Basic/08%20leaf%2CD1%2CD2%20node%20count.c)
-* [:blue_book:](https://drive.google.com/drive/folders/1VzrX63lw2w44Vr3WL8udBO5Cyc3-W5vc) [Binary Search Tree](https://github.com/skjha1/Data-Structure-Algorithm/tree/master/Tree/BST)
+### * [:blue_book:](https://drive.google.com/drive/folders/1VzrX63lw2w44Vr3WL8udBO5Cyc3-W5vc) [Binary Search Tree](https://github.com/skjha1/Data-Structure-Algorithm/tree/master/Tree/BST)
   - [01 BST Insert Inorder & Search](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Tree/BST/01%20BST%20Insert%20Inorder%20%26%20Search.c)
   - [02 BST Insert,Inorder&Search(cpp)](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Tree/BST/02%20BST%20Insert%2CInorder%26Search.cpp)
   - [03 Insert in BST](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Tree/BST/03%20Insert%20in%20BST.c)
   - [04 Recursive Insert in BST](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Tree/BST/03%20Recursive%20Insert%20in%20BST.c)
   - [05 Delete from BST (Height,InPre,InSucc)](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Tree/BST/04%20Delete%20from%20BST%20(Height%2CInPre%2CInSucc).c)
   - [06 BST Project](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Tree/BST/05%20BST%20Project.cpp)
-* [:blue_book:](https://drive.google.com/drive/folders/1VzrX63lw2w44Vr3WL8udBO5Cyc3-W5vc) [AVL Tree](https://github.com/skjha1/Data-Structure-Algorithm/tree/master/Tree/AVL)
+### * [:blue_book:](https://drive.google.com/drive/folders/1VzrX63lw2w44Vr3WL8udBO5Cyc3-W5vc) [AVL Tree](https://github.com/skjha1/Data-Structure-Algorithm/tree/master/Tree/AVL)
   - [01 Rotations in AVL(LL,LR)](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Tree/AVL/01%20Rotations%20in%20AVL(LL%2CLR).c)
   - [02 Rotation in AVL](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Tree/AVL/02%20Rotation%20in%20AVL.cpp)
   - [03 Delete From AVL](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Tree/AVL/03%20Delete%20From%20AVL.cpp)
     - [Problems on Tree ](https://github.com/skjha1/Data-Structure-Algorithm/tree/master/Tree/Problems)
-* [:blue_book:](https://drive.google.com/drive/folders/1VzrX63lw2w44Vr3WL8udBO5Cyc3-W5vc) [Graph](https://github.com/skjha1/Data-Structure-Algorithm/tree/master/Graph/Basic)
+### * [:blue_book:](https://drive.google.com/drive/folders/1VzrX63lw2w44Vr3WL8udBO5Cyc3-W5vc) [Graph](https://github.com/skjha1/Data-Structure-Algorithm/tree/master/Graph/Basic)
   - [01 BFS](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Graph/Basic/01%20BFS.c)
   - [02 DFS](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Graph/Basic/02%20DFS.c)
   - [03 PrimMinSpanningTreeFunction](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Graph/Basic/03%20PrimMinSpanningTreeFunction.cpp)
   - [04 KrushalsMinCostSpanningTreeFunction](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Graph/Basic/04%20KrushalsMinCostSpanningTreeFunction.cpp)
   - [05 DepthFirstSearchUsingRecursion](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Graph/Basic/05%20DepthFirstSearchUsingRecursion.cpp)
   - [06 BreadthFirstSearchUsingSTLQueue](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Graph/Basic/07%20Breadth%20%20First%20Search%20Using%20STLQueue.cpp)
-* [:blue_book:](https://drive.google.com/drive/folders/1VzrX63lw2w44Vr3WL8udBO5Cyc3-W5vc) [Heap](https://github.com/skjha1/Data-Structure-Algorithm/tree/master/Heap)
+### * [:blue_book:](https://drive.google.com/drive/folders/1VzrX63lw2w44Vr3WL8udBO5Cyc3-W5vc) [Heap](https://github.com/skjha1/Data-Structure-Algorithm/tree/master/Heap)
   - [01 InsertionHeap](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Heap/01%20InsertinHeap.cpp)
   - [02 CreateHeapUsingSTLVector](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Heap/02%20CreateHeapUsingSTLVector.cpp)
   - [03 Insert in Heap](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Heap/03%20Insert%20in%20Heap.cpp)
   - [04 Delete element from Heap](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Heap/04%20Delete%20element%20from%20Heap.c)
   - [05 Heap sort](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Heap/05%20Heap%20sort.c)
   - [06 HeapifyFunctionFasterMethodtoCreateHeap](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Heap/06%20HeapifyFunctionFasterMethodtoCreateHeap.cpp)
-* [:blue_book:](https://drive.google.com/file/d/1wqMgL_6w8nWgFCHYXQ0NA8Kjz8LLcmKu/view?usp=sharing) [Sorting Techniques](https://github.com/skjha1/Data-Structure-Algorithm/tree/master/Sorting%20Technique)
+### * [:blue_book:](https://drive.google.com/file/d/1wqMgL_6w8nWgFCHYXQ0NA8Kjz8LLcmKu/view?usp=sharing) [Sorting Techniques](https://github.com/skjha1/Data-Structure-Algorithm/tree/master/Sorting%20Technique)
   - [01 Bubble Sort](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Sorting%20Technique/01%20Bubble%20Sort.c)
   - [02 Insertionsort](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Sorting%20Technique/03%20Insertionsort.c)
   - [03 Selection Sort](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/Sorting%20Technique/05%20Selection%20Sort.c)
@@ -215,8 +221,8 @@ In software development we have two phases:-
 
 
 
-* [:blue_book:](https://drive.google.com/file/d/1wqMgL_6w8nWgFCHYXQ0NA8Kjz8LLcmKu/view?usp=sharing) [Time Complexity and Problems](https://github.com/skjha1/Data-Structure-Algorithm/tree/master/src/TC/Time%20Complexity%20problems)
-* [:blue_book:](https://drive.google.com/drive/folders/1YFkrOjBOpbVwJ7SrrVxommPce43RJBNG) [Divide & Conquer](https://drive.google.com/file/d/1Tii-skCVlL-gFGAkk5pUSbm9TwOJGsVf/view?usp=sharing)[:blue_book:](https://drive.google.com/file/d/1Tii-skCVlL-gFGAkk5pUSbm9TwOJGsVf/view?usp=sharing)
+### * [:blue_book:](https://drive.google.com/file/d/1wqMgL_6w8nWgFCHYXQ0NA8Kjz8LLcmKu/view?usp=sharing) [Time Complexity and Problems](https://github.com/skjha1/Data-Structure-Algorithm/tree/master/src/TC/Time%20Complexity%20problems)
+### * [:blue_book:](https://drive.google.com/drive/folders/1YFkrOjBOpbVwJ7SrrVxommPce43RJBNG) [Divide & Conquer](https://drive.google.com/file/d/1Tii-skCVlL-gFGAkk5pUSbm9TwOJGsVf/view?usp=sharing)[:blue_book:](https://drive.google.com/file/d/1Tii-skCVlL-gFGAkk5pUSbm9TwOJGsVf/view?usp=sharing)
   - [Merge Sort](https://github.com/skjha1/Data-Structure-Algorithm-Programs/blob/master/src/Algorithms/Divide%20%26%20Conquer/03%20Merge%20sort.cpp)[:blue_book:](https://drive.google.com/drive/folders/1YFkrOjBOpbVwJ7SrrVxommPce43RJBNG)
   - [Quick Sort](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/src/Algorithms/Divide%20%26%20Conquer/02%20Quicksort.cpp)
   - [Binary Search  (logn)](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/src/Algorithms/Divide%20%26%20Conquer/01%20Binary%20Search.cpp)[:blue_book:](https://drive.google.com/file/d/14J3UY400OcnlqyIJIIox9RRSNZDEbRjT/view?usp=sharing)
@@ -228,8 +234,8 @@ In software development we have two phases:-
 
 
 
- - [:blue_book:](https://drive.google.com/file/d/17tKaH-RDgzqQQd1CRSHxVZrVTWXNSmSV/view?usp=sharing) [Sliding Window technique](https://www.geeksforgeeks.org/window-sliding-technique/)
-#### * [:blue_book:](https://drive.google.com/drive/folders/1pDrF9Elmm0jsq227rKklIkUFSrNeigYa) [Dynamic Programming](https://github.com/skjha1/Data-Structure-Algorithm-Programs/tree/master/src/Algorithms/Dynamic%20Programming)
+ ### - [:blue_book:](https://drive.google.com/file/d/17tKaH-RDgzqQQd1CRSHxVZrVTWXNSmSV/view?usp=sharing) [Sliding Window technique](https://www.geeksforgeeks.org/window-sliding-technique/)
+### * [:blue_book:](https://drive.google.com/drive/folders/1pDrF9Elmm0jsq227rKklIkUFSrNeigYa) [Dynamic Programming](https://github.com/skjha1/Data-Structure-Algorithm-Programs/tree/master/src/Algorithms/Dynamic%20Programming)
 
 <p align="center">
   <img width="460" height="300" src="https://github.com/skjha1/Data-Structure-Algorithm-Programs/blob/master/src/Img/DP.png">
