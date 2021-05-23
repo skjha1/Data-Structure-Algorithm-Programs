@@ -46,6 +46,7 @@
 14. [Sliding Window](https://github.com/skjha1/Data-Structure-Algorithm-Programs#--blue_book-sliding-window-technique)
 15. [Dynamic Programming](https://github.com/skjha1/Data-Structure-Algorithm-Programs#-blue_book-dynamic-programming)
 <br>
+<hr />
 
 
 
