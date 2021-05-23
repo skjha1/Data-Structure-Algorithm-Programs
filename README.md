@@ -25,10 +25,10 @@
 
 
 
-### Data Structures  
+## Data Structures  
 
 
-## Topics Of Data-structure & Algorithms and Related Programs🔭🔭
+### Topics Of Data-structure & Algorithms and Related Programs🔭🔭
 
 1. [Recursion](https://github.com/skjha1/Data-Structure-Algorithm-Programs#blue_book--recursion-)
 2. [Array](https://github.com/skjha1/Data-Structure-Algorithm-Programs#-blue_book-arrayblue_book)
