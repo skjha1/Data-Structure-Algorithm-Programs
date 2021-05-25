@@ -43,8 +43,8 @@
 11. [Heap](https://github.com/skjha1/Data-Structure-Algorithm-Programs#-blue_book-heap)
 12. [Sorting Techniques](https://github.com/skjha1/Data-Structure-Algorithm-Programs#-blue_book-sorting-techniques)
 13. [Divide & Conquer](https://github.com/skjha1/Data-Structure-Algorithm-Programs#-blue_book-divide--conquerblue_book)
-14. [Sliding Window](https://github.com/skjha1/Data-Structure-Algorithm-Programs#--blue_book-sliding-window-technique)
-15. [Dynamic Programming](https://github.com/skjha1/Data-Structure-Algorithm-Programs#-blue_book-dynamic-programming)
+14. [Sliding Window](https://github.com/skjha1/Data-Structure-Algorithm-Programs#blue_book-sliding-window-technique)
+15. [Dynamic Programming](https://github.com/skjha1/Data-Structure-Algorithm-Programs#blue_book-sliding-window-technique)
 
 <hr />
 
