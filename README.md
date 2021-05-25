@@ -252,6 +252,7 @@ In software development we have two phases:-
 
 ####  [:blue_book:](https://drive.google.com/file/d/17tKaH-RDgzqQQd1CRSHxVZrVTWXNSmSV/view?usp=sharing) [Sliding Window technique]()
 - [Maximum Sum Subarray of size K](https://github.com/skjha1/Aditya-verma-youtube-playlist-code/blob/main/Sliding%20Window/01%20Maximum%20Sum%20Subarray%20of%20size%20K.cpp)[:blue_book:](https://drive.google.com/file/d/1ppRCKREsg4nysKrKncm2xre7D_IDUGaT/view?usp=sharing)
+- [First negative integer in every window of size k](https://github.com/skjha1/Aditya-verma-youtube-playlist-code/blob/main/Sliding%20Window/02%20First%20negative%20integer%20in%20every%20window%20of%20size%20k.cpp)[:blue_book:](https://drive.google.com/file/d/17CwCrHr3DqJQ57hozH1peyDSfwUBvFT4/view?usp=sharing)
 #### [:blue_book:](https://drive.google.com/drive/folders/1pDrF9Elmm0jsq227rKklIkUFSrNeigYa) [Dynamic Programming](https://github.com/skjha1/Data-Structure-Algorithm-Programs/tree/master/src/Algorithms/Dynamic%20Programming)
 
 <p align="center">
