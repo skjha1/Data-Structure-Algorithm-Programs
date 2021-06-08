@@ -233,8 +233,7 @@ In software development we have two phases:-
 * 3.	Definiteness(Every Statement should be clear and understandable) 
 * 4.	Finiteness(Algorithm must terminate at some time)
 * 5.	Effectiveness(Don’t write unnecessary steps)
-* 6.	Independent(It can be implemented in any programming language).
-
+* 6.	Independent(It can be implemented in any programming language)
 
 
 
