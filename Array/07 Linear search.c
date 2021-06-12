@@ -24,7 +24,7 @@ int LinearSearch (struct Array arr, int key)
 }
 int main ()
 {
-	struct Array arr1= {{2,3,4,2,3,4,5,88,9	},20,5	};
+	struct Array arr1= {{2,3,4,2,3,4,5,88,9	},9,20	};
 	printf("The element is at %dth index",LinearSearch(arr1,88));
 	Display(arr1);
 	return 0;
