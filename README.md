@@ -19,9 +19,6 @@
 * Problems on Data structure & Algorithms (Competitive coding)  [Click Here](https://github.com/skjha1/Competitive-Coding#competitive-coding) to get into problems section..
 * **NOTE** : Click on [:blue_book:] for getting hand written notes on particular topic.
 
-
-
-
 <h4 align="center">Show some &nbsp;❤️&nbsp; by starring this repository! It will push me to give more percentage of efforts.</h4>
 
 
