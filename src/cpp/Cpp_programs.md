@@ -9,4 +9,5 @@
 * [Display all Factors of a Number](https://www.programiz.com/cpp-programming/examples/factors-number)
 * [Find LCM](https://www.programiz.com/cpp-programming/examples/lcm)
 * [Find HCF/GCD](https://www.programiz.com/cpp-programming/examples/hcf-gcd)
-* 
+* [Check Anaram](https://codescracker.com/cpp/program/cpp-anagram-program.htm)
+* [Calculate avg and Percentage](https://codescracker.com/cpp/program/cpp-program-calculate-average-percentage.htm)
