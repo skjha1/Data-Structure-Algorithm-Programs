@@ -12,3 +12,5 @@ int main (){
 	func1(x); // passing parameter to fxn 
 	return 0;
 }
+
+// This will give output as 1 2 3 4 5 6 7 8 9 
