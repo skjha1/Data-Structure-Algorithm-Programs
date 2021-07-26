@@ -6,3 +6,9 @@
 * [IDeserve_Array](https://www.youtube.com/watch?v=a7D77DdhlFc&list=PLamzFoFxwoNjw4EpaVZzP-8lqWA9hOmnD)
 * [Byte By Byte](https://www.youtube.com/watch?v=HGgdcKbC5ro&list=PLNmW52ef0uwvmnS0UQU4Qf3NvsEREGWoK)
 
+### Array Topicwise
+
+* [Introduction & Advantages](https://www.geeksforgeeks.org/introduction-to-arrays/)
+* [Types of Array](#)
+  * [Fixed Size Array](https://chortle.ccsu.edu/java5/Notes/chap54/ch54_2.html)
+  * [Dynamic Size Array](https://www.interviewcake.com/concept/java/dynamic-array)
