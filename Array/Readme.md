@@ -12,3 +12,5 @@
 * [Types of Array](#)
   * [Fixed Size Array](https://chortle.ccsu.edu/java5/Notes/chap54/ch54_2.html)
   * [Dynamic Size Array](https://www.interviewcake.com/concept/java/dynamic-array)
+* [Operations On Array](https://github.com/skjha1/Data-Structure-Algorithm-Programs/blob/master/Array/Problems/39%20Practice%20whole%20array.cpp)
+* [Problems](https://github.com/skjha1/Data-Structure-Algorithm-Programs/tree/master/Array/Problems)
