@@ -14,3 +14,6 @@
   * [Dynamic Size Array](https://www.interviewcake.com/concept/java/dynamic-array)
 * [Operations On Array](https://github.com/skjha1/Data-Structure-Algorithm-Programs/blob/master/Array/Problems/39%20Practice%20whole%20array.cpp)
 * [Problems](https://github.com/skjha1/Data-Structure-Algorithm-Programs/tree/master/Array/Problems)
+* [Vector](https://www.geeksforgeeks.org/vector-in-cpp-stl/)
+* [map](https://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl/)
+* [set](https://www.geeksforgeeks.org/set-in-cpp-stl/)
