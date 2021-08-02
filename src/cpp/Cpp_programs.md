@@ -1,6 +1,6 @@
 ## Standared programs
 
-* [Check Palindrome](https://www.programhttps://www.programiz.com/cpp-programming/examples/reverse-numberiz.com/cpp-programming/examples/palindrome-number)
+* [Check Palindrome](https://www.programiz.com/cpp-programming/examples/palindrome-number)
 * [Check Armstrong Number](https://www.programiz.com/cpp-programming/examples/check-armstrong-number)
 * [Reverse an Integer](https://www.programiz.com/cpp-programming/examples/reverse-number)
 * [Check Whether Number is Even or Odd](https://www.programiz.com/cpp-programming/examples/even-odd)
