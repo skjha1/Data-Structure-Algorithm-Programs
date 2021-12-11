@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h>
+
 
 void swap(int* x, int* y) // function for swapping
 {
