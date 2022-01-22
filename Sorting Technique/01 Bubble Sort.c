@@ -10,7 +10,7 @@ void swap(int* x, int* y) // function for swapping
 
 void Bubble(int A[], int n) // size of array // no of elements 
 {
-	int i, j, flag = 0; // flag is for adptive (Criteria)
+	int i, j, flag = 0; // flag is for adaptive (Criteria)
 	for (i = 0; i < n - 1; i++)
 	{
 		flag = 0;
@@ -18,15 +18,14 @@ void Bubble(int A[], int n) // size of array // no of elements
 		{
 			if (A[j] > A[j + 1])
 			{
-				swap(&A[j], &A[j + 1]); // if is greater then swap the elements 
+				swap(&A[j], &A[j + 1]); // if current element is greater then next element, swap the elements 
 				flag = 1; 
 			}
 		}
-		if (flag == 0)
-			break;
-
+		if (flag == 0)break;
 	}
 }
+
 int main()
 {
 	int A[20], i;
@@ -46,6 +45,6 @@ int main()
 	return 0;
 }
 
-// Bubble sort is Adptive: if the list is sorted it will use flag  // Bubble sort is stable  : in case of duplicate 
-// time complexity is : min = o(n) - in the case of Adaptivity 
-//					  : max = o(n2)
+// Bubble sort is Adaptive: if the list is sorted it will use flag  // Bubble sort is stable  : in case of duplicate 
+// time complexity : min = O(N) - in the case of Adaptivity 
+//                 : max = O(N^2)
