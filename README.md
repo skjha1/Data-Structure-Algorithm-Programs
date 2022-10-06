@@ -241,7 +241,7 @@ In software development we have two phases:-
   - [Binary Search  (logn)](https://github.com/skjha1/Data-Structure-Algorithm/blob/master/src/Algorithms/Divide%20%26%20Conquer/01%20Binary%20Search.cpp)[:blue_book:](https://drive.google.com/file/d/14J3UY400OcnlqyIJIIox9RRSNZDEbRjT/view?usp=sharing)
   - [Closest Pair of Points | O(nlogn)](https://www.geeksforgeeks.org/closest-pair-of-points-onlogn-implementation/)
   - [Strassen’s Matrix Multiplication](#)
-  - [Maximul Subarray](#)
+  - [Maximul Subarray](https://www.interviewbit.com/blog/maximum-subarray-sum/)
   - [Integer Multiplication](#)
   - [Karatsuba Algorithm for Fast Mul](#)
 
