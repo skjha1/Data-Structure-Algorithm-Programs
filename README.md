@@ -10,6 +10,11 @@
 
 ***Before dive into this repo you should know why do we need these concepts. What is Role of [DSA in your real life](https://skjha1.medium.com/role-of-data-structures-algorithms-for-software-engineer-acb1c3457b63)??***
 
+## Before getting into this repo lets understand the Importance of Problem solving and DSA in coming 10 to 20 years click below video to understand more.
+- [VIDEO](https://youtu.be/ZnjhuIuKHBA)
+
+### Let's connect on discord for Technical and DSA related Discussion: [DisCord](https://discord.gg/TsRKzEG9)
+
 
 “ For solving any real-world problem with programming approach we need to follow some steps & strategy. The collection of that steps is Algorithm, whereas a data structure is a way to store and organize data during solving that problem or constructing any software so that it can be used efficiently in terms of time and space, this way Data structure & Algorithms always allow us to write efficient and optimized computer programs.”
 
